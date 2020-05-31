@@ -1,0 +1,11 @@
+[('years', 0.014925373), ('speed', 0.014925373), ('dear', 0.014925373), ('share', 0.014925373), ('present', 0.014925373), ('minister', 0.014925373), ('finance', 0.014925373), ('sir', 0.014925373), ('spend', 0.014925373), ('idea', 0.014925373)]
+0: motivation wah vision practical future augustblackday minister finance dear share present idea speed like spend
+1: jammu journalists kashmir lift petition press sign curb bhi fawad excellent idea like pakistani rocket
+2: economic highness vision sure person nominate listen new growth growt fastest speedly idea like speed
+3: logical question years dear share present minister finance speed economy idea develop spend like rocket
+4: eligibility letter idea boost rocket dear speed sir like design economy pakistani spend present years
+5: years speed dear share present minister finance sir spend economy idea develop cann like rocket
+6: idea share present finance minister agree nro citizen portal complaints design dear cann like speed
+7: design imran khan pakistani unfortunately meet millions rupees pakistan salute idea dear sir like speed
+8: complaints portal citizen newprofilepic finance design dear share present cann minister like speed idea highness
+9: idea speed like economy boost rocket pakistani dear sir problem cann years develop spend contact

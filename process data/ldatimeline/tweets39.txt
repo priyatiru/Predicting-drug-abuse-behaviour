@@ -1,0 +1,11 @@
+[('ireland', 0.012694688), ('school', 0.012694688), ('burn', 0.008599574), ('shake', 0.008599574), ('read', 0.008599573), ('people', 0.008599573), ('book', 0.008599573), ('use', 0.008599572), ('ill', 0.008599571), ('agree', 0.00859957)]
+0: day today nonsense birthday captain book type boy ignorance write literary live classic edward proclaim
+1: reason root insane student eat prisoner irish receipt prompt common clear teacher courtesy work acknowledge
+2: day great enjoy love book dalis card auspicious art tarot gorgeous today man reissue read
+3: like women dublin use india teacher news school think sort thing ted summer little need
+4: book need wonderful completely margaret day students agree government sign human cosmopolitanism free mahoney adaptation
+5: ireland school burn shake read people book use ill vaccine agree return time students hong
+6: time mahoney mary today nurse eliza dont long think encourage beautiful professional american remember african
+7: work people eqbal ahmad remember awful bronze karl marx include book grind plaque mark small
+8: remember history story agree lovely today lot pan walking read role jingoistic levison botswana finish
+9: agree people completely world wear late right viking slavery wary murder gross apart indigenous enjoyed

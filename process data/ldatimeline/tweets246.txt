@@ -1,0 +1,11 @@
+[('airbnb', 0.06864269), ('collaborative', 0.06864269), ('consumption', 0.06864269), ('innovation', 0.06864269), ('supply', 0.059758358), ('international', 0.057389814), ('cost', 0.057389814), ('chains', 0.057389814), ('american', 0.034883972), ('economy', 0.034883954)]
+0: publish spatial computing new trip book society riggs theory prismatic iii fred twist logistics frighten
+1: trip china june economy august new coronavirus deflation force web abstractions medium article future standards
+2: beginning end globalization concentration coronavirus data economic report factor growth productivity total stanley risk important
+3: america striking workforce issue economic outlook dark europe economics behavioral recovery new manuscript john locke
+4: grow economy supply chain oil coronavirus chances avert novel epidemic capacity agricultural expanding troubles significant
+5: airbnb collaborative consumption innovation supply cost chains international american weakness economy dispersed fabric knowledge beginning
+6: controversy minimum wage spatial productivity variability oil growth indicator economic chart hopeful reflecting signs important
+7: prices path forward oil articles medium attack mysterious grid electric steve allen cyber plotting direction
+8: american market job woes happen gdp trip chinajune international important development healthcare industrial revolution history
+9: timeline vaccine supply chain meat situation future business success consulting employment problems china unfortunate contraction

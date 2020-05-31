@@ -1,0 +1,11 @@
+[('mask', 0.05237073), ('yes', 0.035199896), ('change', 0.03476258), ('tell', 0.026614478), ('wear', 0.026614463), ('agree', 0.02661437), ('science', 0.026001453), ('face', 0.018029189), ('masks', 0.018029151), ('wait', 0.0094437525)]
+0: advice wow work tomorrow costello reading rightly tell think anthony sage read article boris thread
+1: test mask wear science include need absolutely figure care use confuse count sage agree simple
+2: lockdown run years nhs need possible virus issue korea read succeed upper gastro respiratory purely
+3: ppe countries think animals donate yep question service government country secure money rest goods raise
+4: sense face big public ppl masks common house leave ounce pass person allam touch walk
+5: mask yes change tell wear agree science face masks wait coveringmy protect aldi new policy
+6: covid little cough symptoms know test sausage june science change uae confuse outside hospital ons
+7: science like countries disgraceful report change wait let government follow announce wonder thank european compare
+8: good pandemic face help sadly point money days delish delivery free alcohol vegan today happy
+9: message look public send wrong vegan thats ppl path choose cause biggest away think interesting

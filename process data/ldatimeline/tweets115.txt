@@ -1,0 +1,11 @@
+[('bir', 0.023082772), ('gibi', 0.015636662), ('cok', 0.015636658), ('motoruma', 0.008190526), ('yolculua', 0.008190526), ('belli', 0.008190526), ('harley', 0.008190526), ('kmm', 0.008190526), ('menzili', 0.008190526), ('atlamm', 0.008190526)]
+0: bir iin birer baba sen daparamparayz ikence geriye baksam bilmecezdke bence olmu neyim unutulmaz eyim
+1: bir kez ferah iyi doru bence sesini sebnem muzik karnca film sey peinde miyazaki sunar
+2: karym erkan olan enes sonya etrafnda dnya kedilerin artk gelir gezer hayvan bile beslenmesine dolar
+3: bir demek istedim kafamn otur saz sinir yav yerine bozucu biri arkasnda alyor dolaarak korunmas
+4: kim ben yok kardes vah insanlar harika zerdikoyun tasarmna okurdu yazardbu boyle ofis luksum gore
+5: bir gibi cok motoruma yolculua belli harley kmm menzili atlamm davidson ark olmayan ferahi ebnem
+6: bir degil gerekleme evet kiisel sylememi sesli diye sesim istemiyorlar gzel evde bitsin karantina ark
+7: iin dinlene daha bir keyfi ekibin ekibini yerinde kzlkaya hava beldeyiz devam ediyoruz beklemek ltfen
+8: bir sahne niye yani estafurullah cumhuriyetin yerli nutku mhendisi izlerken ilk gemi gem filmi deerlerimizden
+9: bir tek ama cok var gerisi vardr ben byle dinleyi kaptan mrettebattr sahibi teferruattr yrein

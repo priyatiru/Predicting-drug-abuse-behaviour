@@ -1,0 +1,11 @@
+[('lahore', 0.036961384), ('storm', 0.026489755), ('monthly', 0.021996984), ('clinical', 0.021996971), ('meet', 0.020028781), ('year', 0.020028692), ('ssp', 0.02002865), ('prof', 0.014036981), ('highlihhts', 0.013567829), ('society', 0.013567829)]
+0: dinnermarch gala session prof khalid guest time life achievement masood chief inaugural awardsinaugural mehmood gonda
+1: storm course trauma lahore inna march laparoscopic class hospital surgery workshop advanced medical year portal
+2: biennial conference surgical surgeons international society surgicon pakistan lahoremarch day members chapter todays awardprof meet
+3: beautiful course instructor karachi pals water lake hanna young highh price sky awesome man morning
+4: lahore clinical cancer auditorium bank canal july lahorepresentations lmdc tuesday meeting ssp monthly saturday world
+5: lahore storm monthly clinical meet year ssp prof highlihhts society surgeon chapter lgh pgmi reference
+6: clinical monthly surgeons meeting medical college lahore society dental rehman meetingsociety lahoreseptember complex chaptershaikh zayed
+7: sims cpr online class song basic workshop symposium cancer breast international marc circulate trauma surgeonshands
+8: pakistan lahore society surgeon important corona surgery activities away announcement click ssp visit case emergency
+9: new facebook video post medical institute services sciences health meeting hospital faculty today lahore alhamdol

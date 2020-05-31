@@ -1,0 +1,11 @@
+[('usa', 0.030506246), ('germany', 0.023065625), ('unity', 0.01562507), ('answer', 0.01562507), ('know', 0.01562507), ('work', 0.01562507), ('whay', 0.01562507), ('want', 0.015625069), ('gat', 0.008184454), ('busin', 0.008184454)]
+0: usa damage bih love know brain sick time skico live abouth serbs doctor thurou healthy
+1: want usa wote bih western hill country mother woted elektions percent regulation tere oround dead
+2: mother savidges die dog years know neibor old greefe dificult fellt today position serbian doktor
+3: know sad magnus yes walk learn instead hack greate english anand home old scientific register
+4: usa money thanks maybe america help dragan doctor veki work man big suisse time blind
+5: usa germany unity answer know work whay want gat busin tell bronchitis time baptize abouth
+6: usa want chech bih magnus nazi radivoje professor defend science india trough politics profesor intersubjeckt
+7: bih usa doctors lose science need world prijedor ethics hell want prepare things wild severall
+8: magnus politics live create morning good repress russian know work class marxizm ideology language life
+9: usa sociology tranzition science philosophers herzegovina bosnia war corupted doctor politics slave heall chaos people

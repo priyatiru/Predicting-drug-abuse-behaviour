@@ -1,0 +1,11 @@
+[('python', 0.01882497), ('yapay', 0.014233476), ('yarm', 0.009641978), ('nin', 0.009641978), ('trke', 0.009641978), ('turing', 0.009641978), ('hem', 0.009641978), ('otomatik', 0.009641978), ('sol', 0.009641978), ('belki', 0.009641978)]
+0: language learning natural processing deep machine review research tutorial course edureka intelligence data learn text
+1: gradient descent learning intelligence artificial understanding iin pytorch time prediction series introduction word works automatic
+2: steps python mastering machine learning edition gdml bir yapay chatbot basic data makine dnyadan iyidir
+3: data gradient descent neural network future deep learning mahkemesi eriim aykraym ariv aratrmas kiisel soruturmas
+4: corey matplotlib pandas schafer tutorialworking video flask django json python humans directed jeff gibbs planet
+5: python yapay yarm nin trke turing hem otomatik krenin dnd belki sol zeka learn tutorial
+6: learning nlp machine management duygu resources hala yerlerinde nsanlar nsanlia konusunda ilerleme belki yararli budur
+7: model python algorithms learn stock data amp machine use set explainedmachine turn gen baklrsa grne
+8: luis serrano free introduction friendly learning aws harf byk alan regression machine data text python
+9: artificial intelligence machine learning explainable emoji lkesini case interpretation model objects classes biri cezalandrlm ben

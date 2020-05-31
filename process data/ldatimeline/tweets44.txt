@@ -1,0 +1,11 @@
+[('thank', 0.026885409), ('distance', 0.026885385), ('grade', 0.026885346), ('counties', 0.020327954), ('social', 0.02032792), ('base', 0.02032792), ('created', 0.020327888), ('hope', 0.013770491), ('stuff', 0.01377049), ('note', 0.013770486)]
+0: thank think register data analysis article miss need instructor try counterfactual exercise paul particularly useful
+1: people counties model sorry mean great read warm available chapter come freely social list dear
+2: important outcomes know want post parameters base evaluate possible virus hispanic black higher poor respectively
+3: population right covid overall social distance like great case know data look test model associate
+4: model consider teach perceptions safet dissertation defense absolutely study work brilliant morning experimental school use
+5: thank distance grade counties social base created hope stuff note data come variance minor larger
+6: people right paul happen listserv guess helpful random use isolation counterfactuals counterfactual alternative proposals city
+7: overall right consider measure behavior grade design crude change capture conclusion simulations test lead large
+8: year nyc thank think thoughts agree yes people residents neighborhoods order yeah solve response deliver
+9: think great know question note original aei americ center closely harvard look proposals versions like

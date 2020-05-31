@@ -1,0 +1,11 @@
+[('iqvia', 0.052694954), ('insights', 0.027218074), ('covid', 0.02616873), ('learn', 0.016544316), ('technology', 0.016544307), ('global', 0.016544156), ('patient', 0.011207398), ('webinar', 0.011207393), ('day', 0.011207384), ('actionable', 0.011207384)]
+0: iqvia work solutions covid customer business select language natural nlp processing disease bring understand fight
+1: iqvia complex pharmaceutical new data covid technology build environment trials live join weekly experts report
+2: infectiousdiseases innovative developingcountries include threat tool financial worldtbday like finance explore covid learn treatment diagnosis
+3: africa middleeast value market covid healthcare growth middle share cover northafrica pleased report east pharma
+4: register iqvia health conference consumer healthcare support better tech providers innovation pharma europe today techiq
+5: iqvia insights covid learn technology global patient webinar actionable day contact generate actionabl social help
+6: help patients healthcare iqvia work forward commit answer treatment offer possible early learn right discovery
+7: covid impact use level pandemic healthcare latest health amine article single societies mansouri economies globe
+8: iqvia world series fight covid data health host help scientist join sales webinar overcome commit
+9: digital healthcare data provide strategy social actio integral contact learn generate iqvia health impact human

@@ -1,0 +1,11 @@
+[('nhk', 0.041668463), ('pencil', 0.041666586), ('thisismi', 0.041666586), ('dime', 0.041666586), ('fta', 0.041666586), ('quest', 0.041666586), ('ipadapple', 0.041666586), ('lightformar', 0.041666586), ('songthong', 0.041666586), ('wii', 0.041666586)]
+0: biz reborn lightformar withnews smartlifemadesimple googlesmartspeaker wii songthong pencil ipadapple fta dime thisismi nhk zozo
+1: zozo sns smartlifemadesimple googlesmartspeaker wii lightformar songthong pencil ipadapple fta dime thisismi nhk quest withnews
+2: quest googlesmartspeaker wii lightformar songthong pencil ipadapple fta dime thisismi smartlifemadesimple nhk oculus kindle nobrain
+3: canon nobrain quest wii lightformar songthong pencil ipadapple fta dime thisismi smartlifemadesimple nhk android kindle
+4: quest oculus wii theywe googlesmartspeaker lightformar songthong pencil ipadapple fta dime thisismi smartlifemadesimple nhk zozo
+5: nhk quest wii lightformar songthong pencil ipadapple fta dime thisismi smartlifemadesimple googlesmartspeaker oculus kindle nobrain
+6: nhk pencil ipadapple android theywe wii lightformar songthong fta dime googlesmartspeaker alexa withnews kindle nobrain
+7: thisismi smartlifemadesimple songthong nhk quest wii lightformar pencil ipadapple fta dime googlesmartspeaker oculus kindle nobrain
+8: android alexa dime nhk wii lightformar withnews theywe thisismi songthong pencil ipadapple fta googlesmartspeaker smartlifemadesimple
+9: googlesmartspeaker kindle fta wii theywe smartlifemadesimple lightformar songthong pencil ipadapple dime thisismi nhk quest sns

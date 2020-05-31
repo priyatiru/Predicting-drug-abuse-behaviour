@@ -1,0 +1,11 @@
+[('code', 0.07142858), ('rojava', 0.07142858), ('ist', 0.07142858), ('trust', 0.07142858), ('request', 0.07142858), ('confirm', 0.07142858), ('westworld', 0.07142858), ('cheat', 0.07142858), ('covid', 0.07142858), ('nfs', 0.07142858)]
+0: carbon nfs ist schwer westworld roger covid saverojava rojava cheat code confirm request trust
+1: covid westworld roger carbon nfs saverojava rojava ist schwer cheat code confirm request trust
+2: westworld roger covid carbon nfs saverojava rojava cheat code confirm request trust ist schwer
+3: roger rojava covid saverojava westworld carbon nfs cheat code confirm request trust ist schwer
+4: westworld saverojava roger covid carbon nfs rojava cheat code confirm request trust ist schwer
+5: westworld roger covid carbon nfs saverojava rojava cheat code confirm request trust ist schwer
+6: confirm request trust saverojava westworld roger covid carbon nfs rojava cheat code ist schwer
+7: covid saverojava westworld roger carbon nfs rojava cheat code confirm request trust ist schwer
+8: cheat code westworld roger covid carbon nfs saverojava rojava confirm request trust ist schwer
+9: westworld roger covid carbon nfs saverojava rojava cheat code confirm request trust ist schwer

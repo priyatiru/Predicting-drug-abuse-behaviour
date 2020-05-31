@@ -1,0 +1,11 @@
+[('communic', 0.25769144), ('stayathome', 0.2576813), ('extraordinary', 0.09143579), ('peo', 0.09143505), ('time', 0.008730524), ('download', 0.008725779), ('challenge', 0.008651686), ('isolate', 0.008650195), ('stay', 0.008649747), ('connect', 0.008649724)]
+0: extraordinary communic downloa dow bos bost atthis stayathome isol challeng communicat commun communica peo communicate
+1: bosta unprecedented download challenge isolate connect stay time stopcovid stayathome bostapp communicate together_against_corona downl commu
+2: time connect stay isolate challenge stopcovid downl unprecedented communicat bostapp download communicate together_against_corona stayathome downlo
+3: communi commun challengin bostapp isolate connect stay download challenge together_against_corona unprecedented time coronafighters challe communicate
+4: time unprecedented connect stay isolate together_against_corona challenge challe challengi dow challen challeng downloa chall stopcovid
+5: communic stayathome extraordinary peo time download challenge isolate stay connect bostapp atthis together_against_corona coronafighters unprecedented
+6: bostapp download challenge isolate stay connect communicate stopcovid wit people peop coronafighters peo communica commu
+7: time stay connect unprecedented isolate challenge stopcovid download bos downlo bost communica atthis isol chal
+8: download bostapp challenge isolate connect stay together_against_corona commu communicat communic extraordinary commun communica communi time
+9: coronafighters challengi downloa bost isolate connect stay unprecedented time dow communicat challenge wit download challe

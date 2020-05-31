@@ -1,0 +1,11 @@
+[('mall', 0.05639333), ('covid', 0.039642803), ('offices', 0.03405926), ('locations', 0.028475778), ('station', 0.028475773), ('security', 0.028475773), ('safety', 0.028475773), ('guidelines', 0.028475773), ('marley', 0.028475773), ('square', 0.028475773)]
+0: location maryland near express tag opening grand soon new title saturday security coming covid date
+1: women maryland day open roadtrip online title send walk transportation thousands department need february monday
+2: news mdexpress privilege central chamber chamberproud membership member maryland business covid offer according begin test
+3: mall covid women men maryland amp speedy safety title tag security square marley station guidelines
+4: new check year time friends celebrate business family help holiday happy prepare roadside battery befree
+5: mall covid offices locations station security safety guidelines marley square bryant know registrations vehicle renewals
+6: locations november covid close coronavirus open day help spread reduce pandemic monday veterans observance arundel
+7: maryland tag express title amp time day speedy locations staff offer help open need observance
+8: security grand location join mall open ribbon december season windsor opening holiday mal blvd time
+9: family holiday safety covid coronavirus mdexpress national hanukkah change health news highway tens traffic administration

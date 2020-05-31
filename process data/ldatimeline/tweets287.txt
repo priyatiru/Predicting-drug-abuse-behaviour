@@ -1,0 +1,11 @@
+[('http', 0.03388607), ('receive', 0.028791826), ('mit', 0.026022637), ('award', 0.015116016), ('monterrey', 0.014747227), ('group', 0.014746908), ('velasquez', 0.014746908), ('mtl', 0.008859045), ('medal', 0.007916653), ('ieee', 0.007916653)]
+0: mtl http seminar dissertation doctoral spring bubble effect based converters spin seebeck thermoelectric private jhszhpkeb
+1: http research amp award day mit technology kong hong sodini receives fellow hkust university pjpcit
+2: seminar series mtl present noon today http university berkeley tesla motors new lloyd invensense steve
+3: marc weinberg steven http flickr update mit medrc february labs amp mtl video consortium promote
+4: mtl reception alumni iedm friends flickr http update mit solar new quantum song session upload
+5: http receive mit award monterrey group velasquez mtl ieee medal chip automate ichi new researchers
+6: seminar mtl series noon present today tomorrow draper zhang executive lam wednesday research ibm libsch
+7: mtl mit newsletter laboratories microsystems technology spring dsm damien welcome reardon today abstract submit august
+8: mtl seminar present series noon tomorrow today ibm ahmad bahai research mark gary globalfoundries patton
+9: rich templeton texas instruments http lam research week nov johnnys product recruit register tuesday join

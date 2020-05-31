@@ -1,0 +1,11 @@
+[('que', 0.053328484), ('tengo', 0.039027732), ('pero', 0.038911782), ('estoy', 0.03854765), ('quiero', 0.02584681), ('hacer', 0.023265837), ('papel', 0.02074629), ('muy', 0.019481396), ('historia', 0.017090922), ('ahora', 0.015447117)]
+0: estoy tengo porque noche esta mucho muy tarea que maana hoy mucha tambin por feliz
+1: para los lacrosse das est mucho maana equipo ahora feliz estoy porque estamos actu mirar
+2: estoy fue que pero mis muy noche dulces das encanta maana comer estn puedo esperar
+3: que muy gusta las estoy fue fcil tambin vacaciones espero pero porque msica creo voy
+4: que para una pero conducir gusta maana encanta quiero hacer muy pelcula hermano esa televisin
+5: que tengo pero estoy quiero hacer papel muy historia ahora tambin porque ingls terminar escribir
+6: estoy pero quiero hoy una gusta ahora para tomar clase muy que tengo tom dormir
+7: muy que estoy esta mucho espero tambin para buenas tengo pero semana clase nuestro bueno
+8: estoy que hoy muy pero fue ahora lacrosse los tambin maana emocionada juego gusta triste
+9: estoy para hacer pero tarea esta proyecto muy que noche hoy gusta ahora tambin bueno

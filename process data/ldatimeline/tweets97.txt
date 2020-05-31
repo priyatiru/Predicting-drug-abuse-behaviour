@@ -1,0 +1,11 @@
+[('land', 0.033198662), ('amp', 0.017004104), ('laugh', 0.017004104), ('word', 0.017004104), ('try', 0.017004095), ('tell', 0.017004091), ('room', 0.008906806), ('police', 0.008906806), ('milk', 0.008906806), ('run', 0.008906806)]
+0: amp brain horse question plain simple grandeur delusions mov continue time improve best life better
+1: want hear unfair things change life like control tell lie sound book comparison favor great
+2: government dead case rely biff george mcfly leave knock forget sleep wrong covid stand kill
+3: know person california matter need funny start record prank phone time people test sleep mix
+4: michael god micah day child slam sabbath sunday worship like dismiss bunch buffoon adolescent remain
+5: land amp laugh word try tell police run milk room foot island rhode honey state
+6: quit way play amp use word america real people example best time know think things
+7: think amp good like california warrior sheep want voyage brain use depths dream scary unpleasant
+8: day bear major problem people use create look sculpter general painter philosophizer china trust polymath
+9: people parent life focus true struggle love ready come talk government visit purpose track healthyathome

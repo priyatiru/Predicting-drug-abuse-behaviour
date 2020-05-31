@@ -1,0 +1,11 @@
+[('test', 0.028306704), ('covid', 0.023666238), ('paper', 0.019025765), ('research', 0.014385301), ('imperial', 0.014385298), ('come', 0.014385296), ('lockdown', 0.009744822), ('retract', 0.009744822), ('pandemic', 0.009744822), ('cite', 0.009744822)]
+0: covid science government advice aim research sage come group provide trial early new fast amid
+1: covid arpa new fund sage boost funders government start research test exit lockdown complaints inquiries
+2: covid group app vaccine launch sage engineering concern privacy openness advice clinical centre science expect
+3: covid plan help research universities science pandemic deliver day good test fund reveal institutions welcome
+4: covid ref deadline medical academy universities business policy pandemic trials extend group society british vaccine
+5: test covid paper research imperial come pandemic labs lockdown cite retract launch government develop expect
+6: science new covid coronavirus labour universities staff review scientists crisis access shadow darren chair jones
+7: research covid support coronavirus fund current review amp spend ukri author phd westlake universities organisation
+8: covid universities vaccine response president group join firm research help hop test science race praise
+9: covid research government fund researchers society raise package atmospheric survey advice group sage support ukri

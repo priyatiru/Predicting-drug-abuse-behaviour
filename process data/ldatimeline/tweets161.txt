@@ -1,0 +1,11 @@
+[('der', 0.031408153), ('noch', 0.027530584), ('das', 0.019775454), ('und', 0.019775454), ('schon', 0.015897885), ('mit', 0.012020315), ('ich', 0.012020313), ('mehr', 0.01202031), ('mal', 0.00814274), ('des', 0.00814274)]
+0: der kann man die wie wre bei noch das viel schon ich und den ist
+1: das die sie nicht schon der wenn ist ich wie und auch kann mal dann
+2: ist mann away project nicht die eigentlich diese mnnerduell stndigen ansatz gegen mich euren gngeleien
+3: sie schon dass jetzt vor das werden die ich maybe wird muss mauer und gibt
+4: die weird schon ihr dann auch menschen seid klugen wollen nur weil welt msst auf
+5: der noch und das schon mit ich mehr dann des mal soll ist einer probleme
+6: ist der die und doch das sich nicht sie regulierungen noch wir ich durch stellen
+7: die der das und noch mich schon seine als einen dann spd jetzt mal dass
+8: die nicht ich man haben bin doch damit das mal der und nur archiv wre
+9: die ist der ich eine auf immer wer und auch man bei freie werden wieso

@@ -1,0 +1,11 @@
+[('bank', 0.034053344), ('open', 0.017441878), ('thank', 0.017441804), ('demand', 0.009136113), ('fund', 0.009136113), ('hedge', 0.009136113), ('effect', 0.009136113), ('party', 0.009136113), ('lend', 0.009136113), ('sec', 0.009136113)]
+0: bank tech fintech great company regulation digital big customer future accord key financial use sale
+1: shamir learn sila happy fintechs financial products use cost service easy effective mar goldman change
+2: financial visa fintech big china plaid billion banking watch non organizations bring analyt advance data
+3: fintech bank big venture service easy despite mobile growth wall financial money street tech fund
+4: fintech new partnerships trend open fintechs ahead look techs structure number include continue evolve brands
+5: bank open thank burst lend sec unwillingness effect party hedge fund demand combine internal cash
+6: bank fintech new financial money data invest share ceo work thank uncertai push york worlds
+7: bank pay sila card challenger operate order relevant advancement technology market come combination stay banks
+8: fintech look bank feature program open beta launch market help trends finance sachs goldman check
+9: new financial share sila fintech hard year rate faste end employees annual fabric earn include

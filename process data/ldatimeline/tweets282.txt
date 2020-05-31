@@ -1,0 +1,11 @@
+[('professor', 0.029117439), ('amp', 0.019570692), ('students', 0.014797312), ('learning', 0.014797312), ('action', 0.014797311), ('mitchinalab', 0.010023931), ('congratulations', 0.010023931), ('kate', 0.010023931), ('users', 0.010023931), ('host', 0.010023931)]
+0: work learn action share students experience people program company develop growth need host draw professor
+1: mitglab biofeeder discuss students work professor amp simon johnson company mit lab ecuador team develop
+2: wait mitglab join register shefc koller forget dont carolyn twitter michellana jester laura chat today
+3: project check students time sloan mithlab work accord mitemlab connect help sales market poster day
+4: professor students amp sloan mitalab mitglab work action learn learning supply experience chain challenge continue
+5: professor amp students learning action users host digital congratulations mitchinalab kate need help deeper lectures
+6: team mitglab years business work experts hear tour production operations facility create automa chat biofeeder
+7: professor work mitusalab sloan student labs join fall learn future preview mitglab students action learning
+8: learning action students mitglab come world learn professor twitter fall preview despite female significantly lower
+9: professor sloan tomorrow need john efforts application test warn sterman redouble science action team student

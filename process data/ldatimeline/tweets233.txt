@@ -1,0 +1,11 @@
+[('day', 0.32549638), ('visit', 0.25885773), ('facebook', 0.04010479), ('fushiroyama', 0.04010479), ('tsgcontinue', 0.04010479), ('daystanforduwvisit', 0.0036487926), ('unofficial', 0.0036473477), ('cmuvisit', 0.0036470827), ('uwvisit', 0.0036470136), ('mitvisit', 0.0036468913)]
+0: research internshipcontinue amp lgc yay wfh mitvisit day visit txt yamaguchi thank cool guess good
+1: chair know live yeah programming plpl youtubegeography cpu cmuvisit daystanforduwvisit day visit mit continue hatena
+2: scribendi pcontinue cmuphdmitairsamit gpagpacontinue harvardcoop cerncontinue mit guess good germany deutsches thank cool usb hatena
+3: yamaguchi txt posted hatena blog negotiation unofficial visit cmu usb stanford germany deutsches brown thank
+4: cmu science department kcz youtubectfbaba arizona thank stanford iirc guess good germany deutsches seat cool
+5: day visit facebook fushiroyama tsgcontinue daystanforduwvisit unofficial cmuvisit uwvisit mitvisit list cmucdc travel level warning
+6: gpa major gpagpa accumulated phdtoefl media sensitive gre stanfordw mitstanford gch mit stanford thank cool
+7: mit day uwvisit cmu iirc stanford deutsches germany good guess brown seat harvard museum address
+8: cool thank cmurobotics institute appleappleclangapplecontinue submit usb eecsstata uwvisit day mit continue harvard deutsches good
+9: continue stanfordpat hanrahan rui cern stanfordw facebook fushiroyama mitstanford gch tsgcontinue mit youtubegeography yay amp

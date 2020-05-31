@@ -1,0 +1,11 @@
+[('ema', 0.04622299), ('days', 0.025836999), ('learn', 0.023291305), ('heads', 0.021601468), ('institute', 0.021601468), ('inspiration', 0.017365737), ('join', 0.016607342), ('provide', 0.01313024), ('school', 0.009958434), ('director', 0.009723197)]
+0: podcast spectrum enrollment episode new speak recent school test admission admissions talk latest students whofer
+1: create learn plan ema covid memberminute students year enrollment ads grateful read ssat campus welcome
+2: amp covid join memberoftheweek enrollment learn music cheryl tips elizabeth popular admissions explore know podcast
+3: school virtual teach join discussion lively teachers head work member monday march approach admissions learn
+4: school time parent independent true know new applause focus enrollment march social provide hire test
+5: ema days learn heads institute inspiration join provide school director enrollment webinar ssat student record
+6: ema school webinar level member admission webinars amp director annual team upper register chicago conference
+7: director enrollment management memberoftheweek school day national upper independent hurray serve head amp time barbara
+8: school webinar marketing today digital dial series learn join seminar regional feature ema administrations alc
+9: join series new know member virtual unconference diversity stay important schools rethi ways challenge situations

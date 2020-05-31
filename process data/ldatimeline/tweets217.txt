@@ -1,0 +1,11 @@
+[('hai', 0.018663071), ('come', 0.018663066), ('nai', 0.0141110625), ('apun', 0.01411106), ('tou', 0.01411106), ('tak', 0.00955905), ('hamary', 0.00955905), ('baat', 0.009559049), ('roya', 0.009559049), ('smile', 0.0095590465)]
+0: yaad chean nai chup taslii kay abh chai main tak karun aye tabdeeli rain love
+1: muje singh nai hurt forget promote love patience kabir hai kaisa bhai phone maarokabir kyun
+2: tou hun hai abh pagal respect tweet kuch apny tears tear dead hansta rip sarcasm
+3: tou mai saka panay person hai weird kalam kati keh khwab hua mili zahen bika
+4: zuban khtm nikly hum nai bore actually kashmiri main jaun jab raat hayat aas sehar
+5: hai come nai apun tou tak hamary baat roya smile nfak like main waqt lgta
+6: hai tou mai khawab main hun kamar zindagi muje meri aaj home like feel hum
+7: main bohot goor kuch khayalun kia nytu rangeen siva zindagi tujj nai sharab pee gai
+8: hai waly mai hum xactly hary lafizz sehny mary mahobat raatun jagty nai hota hoyaadun
+9: mai hai nai tou kya kay mera hum wakhit damn let aaj tarha aankh sktatu

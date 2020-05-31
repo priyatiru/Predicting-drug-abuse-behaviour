@@ -1,0 +1,11 @@
+[('amp', 0.031314697), ('game', 0.02104754), ('elim', 0.021047533), ('point', 0.021047533), ('format', 0.015913948), ('elims', 0.015913947), ('like', 0.015913947), ('nae', 0.0107803615), ('dont', 0.010780361), ('opinion', 0.010780361)]
+0: players point key tweet change agree yeah think good work steal looks like head appreciate
+1: cup cash format point old good game pts new play weekly duos players team perspective
+2: format new point placement instead youre man elims cash cup like oath thats talk guy
+3: nae point amp game people team pop players zone correctly chosen better win elims prisma
+4: game elims pick think amp team come choose people correctly fncs nae late height fact
+5: amp game elim point format elims like nae dont opinion value award cash finish team
+6: bad play youre enjoy game week come patch feel total fraggers biggest opens fncs nae
+7: elims pop point team round good gamesnae uses best total earn semis games community conversation
+8: youre game team finals pick grand enter fncs perspective future content think strong shit holy
+9: new fight mean want cap cup cash soon challenge duos like point thanks didnt equally

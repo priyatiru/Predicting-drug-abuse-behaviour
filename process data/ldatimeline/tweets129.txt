@@ -1,0 +1,11 @@
+[('city', 0.032225892), ('lahore', 0.024365878), ('boston', 0.024365878), ('gate', 0.024365878), ('adnankakazaiphotography', 0.020224765), ('delhi', 0.016505862), ('zurich', 0.016505862), ('railway', 0.016505862), ('station', 0.016505862), ('forbidden', 0.01650586)]
+0: walk kennebunkport rockwell norman maine museum travel vicinity day adnankakazaiphotography sunrise hotel atlantic sunset new
+1: award win best photo year massachusetts museum sea jungfrau plymouth week photos view florence stockbridge
+2: autumn vermont nikon travel adnankakazaiphotography walk morning newengland yourshot cloud stratton bennington nature reflection wanderlust
+3: wanderlust travel woodstock vermont flipboard check magazine pilatus travelphotography cover guide channel tokyo iphone street
+4: breakers adnankakazaiphotography travel vanderbilt wanderlust trail freedom mansion newport best nikon newengland interlaken ost atlantic
+5: city lahore boston gate adnankakazaiphotography delhi zurich railway station beijing forbidden amsterdam walk islands massachusetts
+6: bennington view monument battle pass golden train switzerland adnankakazaiphotography massachusetts vermont boston amp gardens sheffield
+7: check submit image crawford notch hampshire new martha vineyard bridge colour autumn trip sun pilatus
+8: sunrise stone old house stunning spiez wanderlust travel day bucket foundation resort list structure add
+9: travel nikon autumn wanderlust pakistan adnankakazaiphotography yourshot seattle ramadan brexit shanghai etribune edgartown murree coolidge

@@ -1,0 +1,11 @@
+[('student', 0.09821419), ('congratulations', 0.09821419), ('fatima', 0.09821419), ('remarkable', 0.09821419), ('allemagne', 0.098214), ('surprise', 0.008928581), ('problem', 0.008928581), ('dhl', 0.008928581), ('thanks', 0.008928581), ('continuous', 0.008928581)]
+0: alexandra elizabeth mary windsor bangladesh surprise problem dhl solve zeta ambitious sara singapore achievement continuous
+1: birthday happy beautiful stress soul solve problem dhl surprise bangladesh success achievement continuous alexandra ambitious
+2: myus account deliver singapore dhl solve problem thanks surprise achievement ambitious zeta philippines continuous person
+3: wish surprise person achievement ambitious continuous success thank lambada solve problem thanks singapore dhl zeta
+4: bright great soul catherine zeta sara parker johns jessica character dont forget mind distinct like
+5: student congratulations fatima remarkable allemagne surprise problem dhl thanks ambitious continuous achievement bangladesh person success
+6: vous avec accord totalement thanks success continuous problem dhl surprise ambitious person zeta singapore achievement
+7: map live kuwait followers usa solve problem dhl bangladesh thanks singapore ambitious continuous achievement surprise
+8: totally agree dhl myus success ambitious problem surprise thanks person sara achievement continuous zeta philippines
+9: icu bangladesh singapore sara zeta achievement ambitious continuous person success surprise dhl problem solve thanks

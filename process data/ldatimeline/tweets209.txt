@@ -1,0 +1,11 @@
+[('scientists', 0.019533888), ('understand', 0.013232579), ('win', 0.013232579), ('science', 0.013232579), ('today', 0.013232578), ('test', 0.013232573), ('ill', 0.006931244), ('miss', 0.006931244), ('day', 0.006931244), ('big', 0.006931244)]
+0: reminder flight tell look use write new thing hour exist email tomorrow wouldve miss home
+1: school pokemon time grad come like mean home world cow play congrats students read phd
+2: start life parent favorite saw humpback rubella tonight tetanus creatures mumps school vaccines whale time
+3: day school grad issue idea prize nobel scientists best fact males propagate white trul wake
+4: ive start think pokemon research like school yesterday little base grad train talk battle science
+5: scientists understand win science today test ill miss day big live minnesota life city excite
+6: today home code best undergrad work try minnesota ive happy closing look randomly feel figure
+7: day apply plat time beautiful school phdchat think lab pipette probably freshman fortunate remind hike
+8: grad program start school scientist phd time think realize great work apply mit place like
+9: watch parody minnesota scientific plainview rural sea think answer lake ive leave key didnt airbnb

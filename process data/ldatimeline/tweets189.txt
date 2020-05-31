@@ -1,0 +1,11 @@
+[('complete', 0.16666667), ('hci', 0.16666667), ('program', 0.16666667), ('short', 0.16666667), ('event', 0.16666667), ('psu__', 0.16666667)]
+0: complete hci program short event psu__
+1: complete hci program short event psu__
+2: complete hci program short event psu__
+3: event psu__ complete hci program short
+4: complete hci program short event psu__
+5: complete hci program short event psu__
+6: complete hci program short event psu__
+7: complete hci program short event psu__
+8: complete hci program short event psu__
+9: complete hci program short event psu__

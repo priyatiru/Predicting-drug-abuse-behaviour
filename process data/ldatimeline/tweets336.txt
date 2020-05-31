@@ -1,0 +1,11 @@
+[('state', 0.015873313), ('coronavirus', 0.012001734), ('nytcooking', 0.012001731), ('center', 0.008130151), ('president', 0.008130151), ('deaths', 0.008130149), ('florida', 0.008130149), ('group', 0.008130146), ('biden', 0.008130146), ('trillion', 0.0042585433)]
+0: manitoba cbc supreme business trumps tax court return record point mix debate outcome origins names
+1: coronavirus covid outbreak deal response heal write announce case dead officials sign ones die mom
+2: trump new start near covid order season house white time tehran withdraw half cut nuclear
+3: covid trump new warn miami crisis magazine postmaster servi president influence general postal ally fundraiser
+4: coronavirus covid pandemic manitoba winnipeg world foxbusiness china amid plan police trudeau outbreak fauci tuesday
+5: state coronavirus nytcooking center president deaths florida group biden secretary pelosi set schumer trillion rooseveltian
+6: coronavirus manitoba winnipeg obama outbreak day prime address canadians trudeau officials million covi minister biden
+7: coronavirus home herald die chronicle nurse covid return vegan year reveal roy abbigail crash heroes
+8: coronavirus reopen issue americans covid order trump crisis data allow year april need death home
+9: police arrest open engineering effort winnipeg monumental rto social ideological transshipment history says left greene

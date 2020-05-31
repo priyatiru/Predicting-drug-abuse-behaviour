@@ -1,0 +1,11 @@
+[('write', 0.010038299), ('love', 0.010038299), ('completely', 0.010038299), ('agree', 0.010038299), ('years', 0.010038299), ('christmas', 0.005258048), ('aunt', 0.005258048), ('bewitch', 0.005258048), ('bind', 0.005258048), ('beautifully', 0.005258048)]
+0: need think day wonderful boy hope sorry incredible goodbye elsa dog yrs nonsense today book
+1: irish history vaccine people student agree school time covidian great work today eliza mahoney mary
+2: people behaviour simple youve end europe instead present war respect today register week xenophobia vote
+3: need world cosmopolitanism eqbal ahmad trump modi rabindranaths india lovely levison important finish walking read
+4: remember wear interview lot history late students stupidity world need spot book work bronze marx
+5: write love completely agree years christmas aunt bewitch bind beautifully little women old copy use
+6: think captain shake inspire read dont apparently available donalds hong kong months ago fry slave
+7: day auspicious book today use remember students nurse nurses international let reissue card art dalis
+8: day ireland enjoy time ill sign read tradition erotic wonderful renaissanc literary love persian poetry
+9: agree people burn completely school distance book teacher role use read ireland student engage social

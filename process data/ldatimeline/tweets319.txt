@@ -1,0 +1,11 @@
+[('project', 0.018365068), ('work', 0.018365066), ('dchas', 0.012440797), ('think', 0.012440797), ('lst', 0.012440797), ('come', 0.012440797), ('email', 0.012440797), ('section', 0.012440797), ('propose', 0.012440796), ('capacity', 0.012440796)]
+0: come science dont beets people trend die eat food kale super tofu becau wish bizarre
+1: ask doctor procedure man black need know thank approach student want afr afraid definitely stop
+2: amp people work know experience class whe different group notice possible publications big bread fan
+3: know american ive think way distance standards freak measure dont stubborn care review use blind
+4: think need people control situations point look plan hear real congrats ask clean strong constantly
+5: project work dchas think lst come email section propose capacity interesting plan join people paper
+6: work school franklin function lot high reason conversation need think lawsuit deadline come ask simpsons
+7: like feel actually win academic clearly colloquialism walk thi shift nyc boston americans speak dont
+8: home university field new thing paper depend scratch commute transit public felt isolate comfort place
+9: work use half irish high professional think teach school excellent environment article adult define include

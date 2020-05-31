@@ -1,0 +1,11 @@
+[('best', 0.0957884), ('online', 0.095404), ('courses', 0.086327836), ('information', 0.08240721), ('free', 0.07682116), ('hello', 0.05127725), ('universityfor', 0.04968553), ('open', 0.0442265), ('link', 0.031163124), ('state', 0.027846405)]
+0: information universities link hello colleges best study amp europe cambridge africafor course canadafor alberta usafor
+1: link information interview email hello write international tips lines pick students best college thank win
+2: information link hello best colleges universities amp abroad analytical essay study ncfor arfor conway questions
+3: information hello international scholarships students ukfor studentsfor throug study link university support australia universities global
+4: link information hello study abroad coursesfor online teaching career apply cover samples written perfectly lettersfor
+5: best online courses information free hello universityfor open link state computing cloud scholarships university new
+6: information scholarships international study konrad germany adenauer temporary coverage health months quebec foreign extends workers
+7: hello information best university link online courses interview questions scholarships tuition answers weaknessesfor fee international
+8: information university online courses best open link hello geneva certification free aachen rwth minnesotafor barcelonafor
+9: information link hello international scholarships apply best students open australian loan difference scholarship student macquarie

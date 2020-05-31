@@ -1,0 +1,11 @@
+[('que', 0.06340695), ('una', 0.018679967), ('hay', 0.016048968), ('pero', 0.013417966), ('las', 0.013417962), ('por', 0.010786965), ('los', 0.010786965), ('ser', 0.010786962), ('est', 0.008155958), ('para', 0.008155958)]
+0: los una ser que como bien quiz muerte juntos era poner pero todo hay siempre
+1: las que los solo son pero del matar todo bueno covid usa por eso fuentes
+2: que los del nosotros son vida sin una buena puede dios era ser sea por
+3: las que como del solo hacer das ser tarda apazote hoy los donde misas poquito
+4: los las que para quien ser una solo miedo general hay del inocente dice salvajada
+5: que una hay pero las por los ser para est guerra cosas somos tambin solo
+6: que por los una lava punto buen las pero sobre tira nuclear abre ardiente del
+7: que todo son salud para ademas captar science nature chow lectores hubiera ganchos dicho los
+8: son porque mierda del catstrofe los ante acontecimientos mundo tragedia vicisitudes simples rabia indolencia pasividad
+9: que una para del todo llegara mejor piensa maje luchando ese corazoncito clavo est miguate

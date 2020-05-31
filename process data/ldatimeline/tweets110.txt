@@ -1,0 +1,11 @@
+[('drive', 0.0148725845), ('opinion', 0.014872583), ('day', 0.007790293), ('finally', 0.007790293), ('document', 0.007790293), ('dropbox', 0.007790293), ('icloud', 0.007790293), ('time', 0.007790293), ('sad', 0.007790293), ('official', 0.007790293)]
+0: think best wwdc future siri recognition pull idea leave intent hop credit calendar ones great
+1: time ill build app thank facebook spend software area summer intern excite super share bay
+2: question macos use ctf cite wwdc way generics app year hold box press accent javafx
+3: push ios wwdc release better section add safari workers nice api notifications service implement apple
+4: apple like new include wwdc jacket examples sensitive audio applause classify cool feature histories dig
+5: drive opinion day finally document dropbox icloud time sad official cloud app google storage group
+6: night let realize connect summer store run chrome write work jam page happy year bloomsday
+7: github use app api information post blog sensitive support play key developer contact help trying
+8: xcode apps start swift hood look ota page phone hold second able interestingly run actually
+9: server day know swift app view doot way csv git simple script rate heart data

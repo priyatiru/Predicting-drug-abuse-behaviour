@@ -1,0 +1,11 @@
+[('que', 0.067831494), ('gracias', 0.012299396), ('damos', 0.012296818), ('esta', 0.008330048), ('mucho', 0.008330048), ('ser', 0.008330048), ('salud', 0.008330048), ('cuenta', 0.008330048), ('empresas', 0.008330048), ('pero', 0.008330048)]
+0: que vida por nos las xito todos vez una ser podemos para vivir cada hemos
+1: que por las los para esta comparto una del este nuestro vida nos gracias ser
+2: que vida para siempre hacer puedes por cosas hijos mejor debes educacin especial esta una
+3: este para del las vida nos que momento como comparto muchas crisis sobre una importante
+4: que hemos cuanto para trabajo aprendido entendemos sentimos era panam quedarse revolucin nueva voluntad superacin
+5: que gracias damos esta mucho ser salud cuenta empresas pero del las nos cuando vale
+6: que para por una buen nos los importante vida personas covid tenemos herramienta hacia algunas
+7: que para importante las los empresa todos quieres pas empresas considerar teletrabajo nuestro deben existe
+8: que los gracias para bendiciones vida por esta como sin latir todos honor hace panam
+9: para una oportunidades que vida sobre tomar decisiones todo partir tenemos conversacin valorar nueva realidad

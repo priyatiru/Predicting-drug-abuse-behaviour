@@ -1,0 +1,11 @@
+[('happy', 0.05913999), ('year', 0.059139855), ('confuse', 0.05913982), ('feel', 0.05913982), ('wow', 0.059139706), ('today', 0.059139296), ('new', 0.059138555), ('bangladesh', 0.059138324), ('chaini', 0.005376372), ('jahan', 0.005376372)]
+0: video facebook new post today congratulation actor yesterday away hurt come kapoor irfaan legendary rishi
+1: congratulation bangladesh jheel jahan dipangshu chaini anirban aami woman rap police khulna gang kichchu powerful
+2: thanks match amaze big congratulation_bangladesh liton_das_and_sakib amazing deklam bazar amua facebook rap woman khulna police
+3: dine sultans pack combo spring day facebook post new video rap khulna chaini aami woman
+4: bangladesh travel dhaka amua somoy finisher congratulations all_bowlers int mahamudllah musfiqur pay sarkarand victory indiawell
+5: happy year confuse feel wow today new bangladesh chaini dipangshu jahan aami lyrical kichchu music
+6: woman rap police khulna gang sylhet business_carnival jheel amua dipangshu chaini anirban aami kichchu powerful
+7: actor aami prasen regency shah svf lyrical kichchu jahan dipangshu chaini anirban music vacuum exceptional
+8: world asia army south powerful birthday brother exclusive happy bangladesh somoy rap khulna anirban aami
+9: day mother googledoodle happy jamuna gang amua dipangshu chaini anirban aami woman rap police khulna

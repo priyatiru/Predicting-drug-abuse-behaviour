@@ -1,0 +1,11 @@
+[('kindly', 0.095880225), ('internship', 0.09581381), ('wonderful', 0.09579434), ('offer', 0.09574191), ('visit', 0.090961225), ('national', 0.050209098), ('gallery', 0.050209083), ('wilmerding', 0.050209083), ('john', 0.050209083), ('art', 0.050209075)]
+0: glad help jacobs marc ready runway design wonderful offer internship wear vis kindly visit childrens
+1: offer wonderful internship kindly visit corporate international baxter tax art school youth dallas museum connecticut
+2: offer internship wonderful kindly visit amtrak spring research center national health ncis honors summer school
+3: internship offer wonderful kindly visit summer dance magazine spirit opportunity field lemur duke center research
+4: offer wonderful internship kindly visit time cigna lacma foundation corporate amp partnerships summer heinz kraft
+5: kindly internship wonderful offer visit national gallery wilmerding john art manager associate product linkedin college
+6: offer wonderful internship kindly visit department pathway states united veterans affairs summer legal nbcuniversal pay
+7: program internship rescue career committee development international offer wonderful ssga street graduate accept applications look
+8: wonderful offer internship kindly account horton summer visit amp newspapers magazine advertise market people kind
+9: offer wonderful visit internship kindly summer honda train nasa athletic program leader future pay sodexo

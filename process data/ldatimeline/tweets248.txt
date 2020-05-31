@@ -1,0 +1,11 @@
+[('tonight', 0.019006934), ('post', 0.019006934), ('students', 0.012875609), ('startups', 0.012875609), ('amp', 0.012875607), ('trust', 0.012875607), ('folks', 0.012875607), ('center', 0.012875607), ('presentations', 0.012875602), ('terrific', 0.012875602)]
+0: center trust amp pitch students come group host bite sam shames hold assess far session
+1: students deltav ability lunch predict mitfuse michael thank leave cool founder need entrepreneurship energy team
+2: great mitfuse entrepreneurship tonight week program startmit mitedp lunch greek brisbane faculty class thanks students
+3: deltav students entrepreneurial post entrepreneurship great founder team blog latest study hold antifragile alumni new
+4: mitedp great talk entrepreneurs leadership terrific energy mit participants elliot cohen thank startups tonights right
+5: tonight post students startups amp trust folks center presentations terrific win version paul prizes qut
+6: pick gift tonight lab trust center team faculty brisbane great thanks mint timtams tams considerations
+7: mit stay year entrepreneurship work covid love entrepreneur mits participants team build safe zoom eship
+8: health mental march positive habits culture start need startup applications redefine doesnt founder wong randolph
+9: mit program love center trust great deltav team come thank qut aulet students mitfuse campus

@@ -1,0 +1,11 @@
+[('science', 0.03233456), ('roar', 0.024448037), ('competition', 0.016561536), ('list', 0.016561536), ('come', 0.01656153), ('holden', 0.016561527), ('newsletter', 0.016561523), ('subscribe', 0.016561523), ('read', 0.016561523), ('lion', 0.01656151)]
+0: higher dive stay important legacy money admissions model perfect sport half school unsustainable business non
+1: higher important conversation newsletter focus faculty work great latest education edition students job happen thank
+2: movement important thank dont typically lead verm hold bernie leaders office ashtons future double story
+3: admissions great higher sign public congrats bartlett return west wing piece josh zuckerberg smid nytcore
+4: students college thoughtful higher strategy map empathy policy plan piece important example combine fit professor
+5: science roar list competition come holden read subscribe newsletter lion conversation important state fact result
+6: higher newsletter teach time response read school issue vol calling thanks reward student strapped dive
+7: thread read student data higher come courage class hope important series educators prepare real struggle
+8: time yes higher science play think leadership entrepreneurship team devil alt creatively integrate emerge catalogue
+9: let know think look set change higher like great latest focus reality dialogue merger dramatically

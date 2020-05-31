@@ -1,0 +1,11 @@
+[('googlemaps', 0.038461536), ('godfather', 0.038461536), ('meet', 0.038461536), ('settings', 0.038461536), ('zoom', 0.038461536), ('android', 0.038461536), ('omniah', 0.038461536), ('engday', 0.038461536), ('day', 0.038461536), ('river', 0.038461536)]
+0: account birthday happy mytwitteranniversary twitter omniah meet river engday day ___ godfather googlemaps zoom settings
+1: googlemaps android river engday day ___ godfather omniah zoom settings meet ios leena share morning
+2: android ios settings meet ___ godfather tomorrow omniah engday day googlemaps zoom leena share morning
+3: river flow ask ios engday day ___ godfather omniah googlemaps zoom settings meet leena android
+4: share ios android river engday day ___ godfather omniah googlemaps zoom settings meet leena morning
+5: android river engday day ___ godfather omniah googlemaps zoom settings meet ios leena share morning
+6: leena android engday day ___ godfather omniah googlemaps zoom settings meet ios river share morning
+7: android river engday day ___ godfather omniah googlemaps zoom settings meet ios leena share morning
+8: good morning ios river engday day ___ godfather omniah googlemaps zoom settings meet leena android
+9: zoom engday day coronavirus covid_ tomorrow ___ godfather omniah android googlemaps ios leena share ask

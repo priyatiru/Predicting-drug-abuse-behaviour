@@ -1,0 +1,11 @@
+[('challenge', 0.028610388), ('happening', 0.02861028), ('life', 0.014986286), ('speed', 0.014986286), ('traci', 0.014986286), ('sciences', 0.014986286), ('psychiatry', 0.014986286), ('professor', 0.014986286), ('developing', 0.014986286), ('lofti', 0.014986286)]
+0: record guideview updates hopkins johns cov fre abx new open sars story support share coronavirus
+1: covid amp nurse guidance veenema luck good katie livestock dog science low susceptible highly daily
+2: covid medicine daily briefing auwaerter report clinical case update paul prof school cases new jhu
+3: nurse covid health congratulations thankyounurses public essential nursesday global case briefing daily address measure protecting
+4: nursesweek mindfulness thankyounurses happy expert time week curt care partner woolford news moment nursing good
+5: challenge happening life speed traci sciences psychiatry professor developing pandemic lofti edt routine normal assistant
+6: update source use wifi relief content areas alw compare new central case daily countries slope
+7: dictionary taber medical covid work safe thank guide healthcare record workers coronavirus clinical today day
+8: johns mindfulness unbound compassion nurse woolford partner drug icf bring certify consultant coach curt daviss
+9: davis drug guide weaken contribute cycle disruption factors immune norm sleep epicurve countries compare line

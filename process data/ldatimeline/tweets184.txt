@@ -1,0 +1,11 @@
+[('oop', 1.0)]
+0: oop
+1: oop
+2: oop
+3: oop
+4: oop
+5: oop
+6: oop
+7: oop
+8: oop
+9: oop

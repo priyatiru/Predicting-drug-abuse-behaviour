@@ -1,0 +1,11 @@
+[('look', 0.018666776), ('tokens', 0.018666776), ('unavailable', 0.018666776), ('day', 0.018666774), ('celebrate', 0.018666774), ('science', 0.018666772), ('research', 0.018666763), ('availability', 0.009777727), ('facilitie', 0.009777727), ('counties', 0.009777727)]
+0: live glad opportunities fewer pro similar barrier earn science asap sad leadership position mjengo graduate
+1: congratulations health discuss chapa zeromalariastartswithme research gender public aim equity students forum career scie successful
+2: thank women fever complete fail prepaid organization ksh kplc payment pesa transaction rece malaria visit
+3: malaria management case door quality campaign need isnt media radio people strengthen social use distance
+4: need qua step way good registration know vital sure kill sad scary whaat rescue hope
+5: tokens look unavailable celebrate day science research facilitie availability counties diagnostic continue ensure moh treatment
+6: medics nairobi appreciate sad circulate ppe message mbili god bless choppers protect hizi need like
+7: opportunity job sad need good postdoctoral phd talk young pleasure fun engage emerge captivate scientists
+8: opportunity malaria think thank bridge university gap fund engaging science prevention malariamustdie era interventions effective
+9: health agenda avoid fea covid cough amp fellow quality need people stigma year peer key

@@ -1,0 +1,11 @@
+[('thank', 0.77767855), ('twitter', 0.0072671026), ('ask', 0.007043609), ('tomorrow', 0.0068523814), ('tweet', 0.0068400893), ('govt', 0.0068357955), ('delete', 0.0067837304), ('gulf', 0.0067837304), ('leaders', 0.0067837304), ('object', 0.0067837304)]
+0: supers bytes speech time cut listen reliev remember air word log forget admin company account
+1: wash lockdown let lein khud kar extension task confusion know public kind guy away servi
+2: people overburden delh doctor emergency healthcare common service struggle book online princeton sure alright need
+3: despite zargar know law tell safoora reaction mom video police file complaint koi takleef haan
+4: things pat wait day normal know financial speech lock summary basically point half package milenge
+5: thank twitter ask tomorrow tweet govt delete gulf leaders object anytime year gre mla thanks
+6: agree jealous know remember hashtag opinion problem book sure help honerable mind section quant important
+7: years delhi migrant follow walk zero kuch lucknow left ago essay mumbai likh topics use
+8: home work like migrant train workers comfortably lakh crore today lockdown day mother happy birthday
+9: birthday amp far loveliest memorable order pandemic share apart happy manto economic finally package dust

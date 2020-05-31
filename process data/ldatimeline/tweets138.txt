@@ -1,0 +1,11 @@
+[('iba', 0.06510063), ('title', 0.03994865), ('director', 0.03935438), ('article', 0.035958156), ('publish', 0.034806293), ('cej', 0.03273239), ('express', 0.030410923), ('siddiqi', 0.030410923), ('kamal', 0.030410923), ('tribune', 0.025767999)]
+0: professor assistant iba title economics amp article research fellow aadil cber nakhoda covid karachi arts
+1: iba fall join march important test round develop webinar invite business bulletin program digital karachi
+2: director amp pay space watch title business rai techlogix panelists ali manager managing development dubai
+3: ibacdc covid iba mockinterviews ceif amp ibakarachi camp class program mba online coursera coronaoutbreak coronaviruspakistan
+4: title account institute karachia administration ibakarachi business virtual zakat covid admission schedule interact ibas follow
+5: iba title director article publish cej express siddiqi kamal tribune karachi position students survey online
+6: iba scholarship endorse encourage alumni fund tcf cause noble support amp barrister webinar guest join
+7: karachi iba covid crisis title publish article urban workshop host education business center youth executive
+8: iba title amp february hold covid shah ali muneeb khurshid founder facebook include client south
+9: available covid cdc cover zakat families students online economy vol short notes crisis ibakarachi fund

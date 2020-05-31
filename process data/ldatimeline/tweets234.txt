@@ -1,0 +1,11 @@
+[('good', 0.11956547), ('araf', 0.11956547), ('believe', 0.11956547), ('translated', 0.11956547), ('english', 0.11956464), ('juz', 0.11956464), ('sura', 0.11956464), ('assistant', 0.010869607), ('lord', 0.010869607), ('google', 0.010869607)]
+0: zumar shall drive fear lord english juz sura google assistant translated good believe araf allah
+1: fear zumar google assistant translated good believe araf shall lord allah drive sura juz english
+2: fear zumar google assistant translated good believe araf shall lord allah drive sura juz english
+3: allah english juz sura forgiveness nisa surely belong praise ask assistant google sirior zumar translated
+4: fear zumar google assistant translated good believe araf shall lord allah drive sura juz english
+5: translated good believe araf english juz sura lord zumar google assistant shall allah belong surely
+6: fear zumar google assistant translated good believe araf shall lord allah drive sura juz english
+7: fear zumar google assistant translated good believe araf shall lord allah drive sura juz english
+8: fear zumar google assistant translated good believe araf shall lord allah drive sura juz english
+9: fear zumar google assistant translated good believe araf shall lord allah drive sura juz english

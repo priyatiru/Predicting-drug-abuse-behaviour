@@ -1,0 +1,11 @@
+[('hai', 0.018496534), ('tum', 0.018496534), ('karte', 0.012529853), ('depart', 0.012529847), ('history', 0.012529847), ('naqli', 0.00656315), ('mazaq', 0.00656315), ('khobsa', 0.00656315), ('barhe', 0.00656315), ('zabardast', 0.00656315)]
+0: nahi happy rahe pakistan hai dafa mothers sarkari kisi day pkr tum apne senator pata
+1: hai tha apne nikla apke kar karke guzara sahafi karne leye din raha kuch kaha
+2: kia kare hai kha kabi kise tweet aap let kho think zameen himayat asmaan kardete
+3: people check automatically follow unfollowed person zanta jab hai pashtun jayega responsible bibi chez pir
+4: koi hai pata dream kaam tanker tha muje come naswari konse har aap shareef tum
+5: hai tum karte depart history naqli mazaq khobsa barhe zabardast kia aunty acha mehmood soldier
+6: pakistan nahi hai dapara month enko vip faida pozao amendment soud mand hes nashta paki
+7: kia amendment pir vari qasab kar barhe sab tum apne mang maulana ajmal enda mauffi
+8: hai kar nahi allah shareef insaf ghar rehman ati diya pir account peshawar save brodran
+9: hai tum nahi baap rahi abi rahe sir pmln fikar ati report ventilator band peche

@@ -1,0 +1,11 @@
+[('energy', 0.052757464), ('release', 0.024239846), ('investment', 0.024239846), ('new', 0.014733963), ('electricity', 0.01473396), ('outlook', 0.009981019), ('world', 0.009981019), ('wind', 0.009981017), ('project', 0.009981017), ('unveil', 0.009981017)]
+0: energy renewable new report countries amp finance lac article innovation important resource investments role lead
+1: energy innovation solar market lac renewable report brazil world future new region america latin icymi
+2: energy new report renewable global amp highlight innovation lead solar low lac countries paper importance
+3: energy global live economic starting webcast weo new renewable infrastructure power article outlook grow countries
+4: energy new renewable live report power development launch amp countries watch lead international internship passion
+5: energy release investment new electricity world outlook large wind solar project unveil regional innovative report
+6: energy new report amp economic sector release integration regional economy oil gdp increase caribbean present
+7: covid new brazil great insights energy challenge list solar innovative share nice infrastructure sustainable impact
+8: interesting development recent read countries importance report energy learn experience amp paper lessons ghana oil
+9: lac countries infrastructure new great revolution energy benefit thanks grow global include sector sectors live

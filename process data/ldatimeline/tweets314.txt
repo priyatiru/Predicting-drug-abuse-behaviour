@@ -1,0 +1,11 @@
+[('____', 0.125), ('_____', 0.125), ('fallacy', 0.125), ('fallaci', 0.125), ('frege', 0.12499999), ('gottlob', 0.12499999), ('head', 0.12499999), ('neak', 0.12499999)]
+0: fallaci _____ fallacy ____ frege gottlob head neak
+1: head neak ____ _____ fallacy frege gottlob fallaci
+2: _____ fallacy ____ frege gottlob fallaci head neak
+3: ____ _____ fallacy fallaci frege gottlob head neak
+4: ____ _____ fallacy fallaci frege gottlob head neak
+5: ____ _____ fallacy fallaci frege gottlob head neak
+6: ____ _____ fallacy fallaci frege gottlob head neak
+7: frege gottlob ____ _____ fallacy fallaci head neak
+8: ____ _____ fallacy fallaci frege gottlob head neak
+9: ____ _____ fallacy frege gottlob fallaci head neak

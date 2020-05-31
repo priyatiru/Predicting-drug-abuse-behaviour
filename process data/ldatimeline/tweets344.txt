@@ -1,0 +1,11 @@
+[('white', 0.01447995), ('amp', 0.01447995), ('market', 0.009808942), ('iron', 0.009808942), ('tech', 0.009808942), ('beauty', 0.009808942), ('prof', 0.009808942), ('jump', 0.0098084705), ('start', 0.00980847), ('change', 0.0060319533)]
+0: store baker board member retail power coast west open company ceo center businesses major founder
+1: store time retailers ceo retail big impact covid board baker new open story beauty center
+2: covid think new thank buy way university city fantastic learn online create students shift fashion
+3: baker better way retailing center founder coronavirus look like important education brand sneakers kudos recycle
+4: store brand nyc chain consumers founder way retail talk open social regional rightsizing decline problem
+5: white amp market iron tech beauty prof jump start change foremost history cover italia time
+6: best need brand coronavirus new faster industry beauty ceo company store seeking taugh wharton behavior
+7: learn amp customer retail amid brunch corp dramatic change profit today bag ceo time founder
+8: uber covid fashion new carbon announce mean irl tech beauty nyc enable solu line support
+9: help need come people buy fashion good covid small center time prof baker brand billion

@@ -1,0 +1,11 @@
+[('photo', 0.2441851), ('post', 0.2441851), ('projepardazdoing', 0.011629295), ('industrial', 0.011629295), ('hire', 0.011627885), ('engineer', 0.011627885), ('control', 0.011627885), ('instrumentation', 0.011627885), ('tehran', 0.011627885), ('engineering', 0.011627885)]
+0: projepardazdo design hire amp mechanical inspectors electrical experience metallurgy piping freelance basic detailed projepardazdoing control
+1: projepardazdoing industrial project engineering tehran iran projepardazdo proj projeparda amp consultant hire activities business projepardaz
+2: projepardazdoing data omit overing sure hand business activities consultant amp hire instrumentation engineer wan experience
+3: engineering projepardazdoing project proj industrial photo projeparda projepardazdo post detailed catch hire basic wan engineer
+4: projepardazd projepardazdo experience freelance proj project hire control engineer instrumentation electrical tehran catch wan design
+5: photo post industrial projepardazdoing instrumentation experience tehran engineering proj project hire control engineer wan metallurgy
+6: wan catch engineering project projepardazdoing electrical freelance proj hire control engineer instrumentation post metallurgy basic
+7: projepardaz hire control engineer instrumentation consultancy projepardazbusiness projepardazdoing industrial project engineering detailed wan basic catch
+8: iran tehran projeparda post photo projepardazdoing industrial projepardaz engineering project experience electrical instrumentation control engineer
+9: crude iranian low oil price projepardazselling projepardazd freelance basic hire control engineer instrumentation electrical experience

@@ -1,0 +1,11 @@
+[('que', 0.030161992), ('los', 0.021665616), ('sin', 0.021665616), ('dudas', 0.017417427), ('por', 0.013169237), ('tiene', 0.008921042), ('quin', 0.008921042), ('igual', 0.008921042), ('nos', 0.008921042), ('das', 0.008921039)]
+0: que muy una pero del ftbol esto ilusions querido argentino por piso los rea para
+1: que como algo ante hay semana hincha hoy pute insufrible auto toc lado hubiera los
+2: que todos das cuarentena todo caso como est una porque ayer algo diez declaro humo
+3: entregs mil gracias cuervo sub blue afecta los volumen pon des esta arriba sos doroga
+4: que los hay maana gente pero series las banco ser amigos amigas por est para
+5: que los sin dudas por tiene quin igual nos das hay ests inicial mis argumento
+6: del para calle econmica siglo sigue somos pegando gente pia habiendo mucha estamos nos estric
+7: que todos para hay los cuando est tuit lorenzo san norma hacer gente estn las
+8: del tambin toda cuando diciembre pero aoscasla azulgrana gente que felizcumpleencasla familia felices anuncio san
+9: que para gente est seleccin sub hace perd del hay necesari papas abuelos compras haciendo

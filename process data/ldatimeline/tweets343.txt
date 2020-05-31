@@ -1,0 +1,11 @@
+[('classroom', 0.03386494), ('student', 0.02058451), ('amp', 0.020584509), ('education', 0.0139443), ('school', 0.013944299), ('lessons', 0.013944288), ('literacy', 0.013944288), ('learning', 0.007304052), ('original', 0.007304043), ('units', 0.007304043)]
+0: pbl edchat pblchat video tips unit secret sauce min collaborating demonstrate day different excerpt book
+1: fun talk real book amp barbara latest engagement student pbl high bray teachers practice tool
+2: education students teach online teachers amp post strategies mindset growth print help listen edtech new
+3: students create state help school teacher think teaching podcast guide heck amp teachers service learn
+4: learn latest today students post help pbl teachers reason focus student authentic column trigger engagement
+5: classroom student amp education school lessons literacy learning working care original units diy inbox visual
+6: classroom education students middleschool middle school create need learning loud honors ability critically coll push
+7: student pbl amp tween middleschool need literacy advice unit class role struggle business excruciate punish
+8: video learning kids engage heck new post based project book ask speak collaboration nwp prove
+9: engagement student new kids speak define post fun classroom help school order ask partner work

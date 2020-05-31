@@ -1,0 +1,11 @@
+[('mba', 0.017888239), ('think', 0.017888216), ('kellogg', 0.012117772), ('admit', 0.0121177705), ('nearly', 0.0121177705), ('class', 0.012117767), ('mbas', 0.012117742), ('students', 0.0063473037), ('stem', 0.0063473), ('story', 0.0063472986)]
+0: school business gmat mba new test whiteboard exam taker professor online home students invest trade
+1: mba amp tomorrow wharton gatekeepers start chief run keeping connected international kaplan andie students mobile
+2: mba school business today best class amp view world harvard brightest increase trending news size
+3: mba wharton school business time pandemic start remarkable scar choose anisha mocherla transition abrupt coronavirus
+4: mba new online amp gmat business casual fall question today score professional barcelona test career
+5: mba think kellogg admit nearly class mbas students stem story school retroactive job loss dislocation
+6: amp mba understand elbowed grubbing latest money person podcast popular sharp stereotype aim people takers
+7: school business world best professors mba today meet trending decided allow option defer admitted dean
+8: news year mba pandemic businessweek ranking breaking agrees big follow suspend bloomberg som caused disruptions
+9: mba business school story stem breaking news students best stanford world roll professors honor program

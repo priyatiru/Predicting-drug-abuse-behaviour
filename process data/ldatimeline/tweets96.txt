@@ -1,0 +1,11 @@
+[('awsl', 0.4999996), ('sorry', 0.023809543), ('nmsl', 0.023809543), ('kimo', 0.023809543), ('new', 0.023809541), ('idol', 0.023809541), ('soundtracks', 0.023809541), ('fortune', 0.023809541), ('chinamake', 0.023809541), ('right', 0.023809541)]
+0: silly awsl kimo fortune chinamake thirsty soundtracks right new idol cool asshole cat help fuck
+1: asshole work awsl fortune chinamake thirsty soundtracks right new idol cool kimo man thank fuck
+2: cool awsl kimo fortune chinamake thirsty soundtracks right new idol asshole vup cat help fuck
+3: idol vup kimo nmsl sorry cool fortune chinamake thirsty soundtracks right new asshole thank help
+4: awsl kimo fortune chinamake thirsty soundtracks right new idol cool asshole vup cat help fuck
+5: awsl kimo nmsl sorry fortune chinamake thirsty soundtracks right new idol cool asshole thank help
+6: silence fortune chinamake nmsl sorry kimo new cool fuck work thirsty soundtracks right cat idol
+7: fuck awsl kimo fortune chinamake thirsty soundtracks right new idol cool asshole man thank work
+8: thirsty soundtracks right new help thank cool kimo fortune chinamake idol asshole awsl man cat
+9: cat man cool kimo fortune chinamake thirsty soundtracks right new idol asshole awsl thank help

@@ -1,0 +1,11 @@
+[('follow', 0.50000024), ('jordan', 0.49999973)]
+0: follow jordan
+1: follow jordan
+2: follow jordan
+3: follow jordan
+4: follow jordan
+5: follow jordan
+6: follow jordan
+7: follow jordan
+8: follow jordan
+9: jordan follow

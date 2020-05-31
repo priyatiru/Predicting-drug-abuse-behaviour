@@ -1,0 +1,11 @@
+[('need', 0.015849134), ('edmonton', 0.015849132), ('higgita', 0.015849132), ('students', 0.015849132), ('city', 0.015849132), ('beautiful', 0.01584913), ('teach', 0.015849125), ('deserve', 0.015849058), ('martok', 0.008301821), ('worf', 0.008301821)]
+0: art alberta gallery game higgita deux want prahran wish favourite afternoon train length populate sail
+1: far thank like presence feel love lovely today stroll mountain instead hike desk absolute feed
+2: fantastic feel home defin apply advisory work outreach program judge academia construction important board sudde
+3: adorable eye glorious year watch trek tonight television series food comfort star begin furious lying
+4: right train service hey glenferrie half lie past sail long station oversleep remain free december
+5: need edmonton higgita students city beautiful teach deserve worf martok diffrent kfc bbq work scenarios
+6: swinburne want longtime catherine comic favourite great hara interview actors admire heart fly recall canada
+7: beautiful morning live way news good hair later delight guest right star season jocelyn christopher
+8: look clip face research gorgeous speak lovely weekend yes run okay beautiful imagine flower song
+9: day prahran incredible style benes elaine voice sitcoms best dance emerge grace sing adler canada

@@ -1,0 +1,11 @@
+[('por', 0.012559848), ('est', 0.012559843), ('covid', 0.012559843), ('generan', 0.012559835), ('las', 0.01255983), ('cundo', 0.00657886), ('nota', 0.00657886), ('nutrilogo', 0.00657886), ('hasta', 0.00657886), ('sbado', 0.00657886)]
+0: que por los tipo este artculos temas hay gente eso anoche tambin hora una nos
+1: que por los para son sus bien las muy hay estos esta cualquiera tenga dijo
+2: del anoche presidente nos hasta dcelo dice irma nieto sandoval covid todo nosotros santiago fecha
+3: que ser tanta medio nadie naucalpan arriba taaaampoooco forbes amarillista agrade tendencioso presi fuente fifi
+4: que los por est cuando para amlo nota nmero salud mexicanos hacer muy pas una
+5: por est covid generan las cundo nota nutrilogo hasta sbado esta hace cita preguntar ver
+6: que artculo puedes por familia gracias compartir jamas visto muy nos las entre este porque
+7: que los covid del ejemplo gente hay modelo centinela pues son las sobre ver par
+8: que los pero nadie dar porqu sin para por puedes sus atencin dec espacio quede
+9: que los las dios tan por tener favor todas bien semana venga pronstico plantados mejores

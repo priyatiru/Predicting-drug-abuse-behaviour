@@ -1,0 +1,11 @@
+[('givingtuesday', 0.033447243), ('join', 0.033447232), ('wan', 0.03344703), ('holiday', 0.02352594), ('nov', 0.022657761), ('impact', 0.022657743), ('time', 0.022657743), ('voice', 0.022657743), ('skills', 0.022657743), ('dollars', 0.022657743)]
+0: hunger foodpantry soupkitchen community food volunteer need nfl happymonday pantries nonprofits follow suit happy halloween
+1: hunger fight givingtuesday soupkitchen wisconsin corner charity tuesday black giving food big unselfie mean veteransday
+2: hunger holiday foodpantry food soupkitchen foodinsecure foodpantries soup help community soupkitchens pantries endhunger country veterans
+3: click people participate givingtuesday donate hungry pls theres sbardella manager lot joanne site city hunger
+4: hunger soup educate kitchens endhunger food bed hot continue waste families real soupkitchens foodwaste bat
+5: givingtuesday join wan holiday nov impact time voice skills dollars hey visit near follow suit
+6: hunger friends share sundayread story giants tnf happythanksgiving gratitude ones love understand sure valley organize
+7: hunger foodpantry soupkitchen foodinsecure endhunger community holiday donations help need hungry georgia snap pantry food
+8: volunteerism hunger holiday lead state pack iowans selfless soupkitchen good cheer serves organic helping iowa
+9: givingtuesday hunger foodpantry soupkitchen community nonprofit foodinsecure holiday choo difference giving donate different approach haters

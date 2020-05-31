@@ -1,0 +1,11 @@
+[('bank', 0.03552746), ('fund', 0.015448762), ('card', 0.015448753), ('year', 0.01544853), ('challenger', 0.014006771), ('new', 0.008092101), ('shape', 0.0080921), ('strong', 0.0080921), ('effect', 0.0080921), ('ccpa', 0.0080921)]
+0: fintech thank check work best years ilausd help level ethereum financial high consistently mainnet little
+1: bank service shamir tech use financial market money great learn effective cost products easy tighten
+2: bank fintech open financial future money banks ceo card check great visa discussion industry fintechs
+3: fintech financial bank new consumer second ceo remain europe banking adoption market america banks billion
+4: bank new happy sila share pay force big financial tech year wonderful team time podcast
+5: bank fund card year challenger new strong roun effect ccpa data shape supergiant regulations face
+6: fintech company big check tech great feature fintechs number grow advancement evolve brands continue consumer
+7: fintech look help visa trend big financial market faster tech product interview plaid startups small
+8: look fintech financial program launch open feature beta big trend apple decade challenge challenger bank
+9: fintech bank mobile new customers big feature china catch watch trends use corporation commercial arm

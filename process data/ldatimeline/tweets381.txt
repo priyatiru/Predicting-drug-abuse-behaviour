@@ -1,0 +1,11 @@
+[('support', 0.01894666), ('work', 0.018946657), ('amp', 0.0143254865), ('thank', 0.0143254865), ('welcome', 0.0143254865), ('job', 0.009704306), ('vanessa', 0.009704306), ('tim', 0.009704306), ('hip', 0.009704306), ('management', 0.009704306)]
+0: weekend create leadership volunteer sat bag child children concept food risk discrete receive team hunger
+1: todays thank wait season district congratulations consult develop school partner audit time strategies amp use
+2: change team today leadership customers project best president congrats check worldgate ways amp welc past
+3: new fun deliver welcome train program leadership corporate officer customer happy thrill chief recruiter worldgate
+4: worldgate amp diana bluetooth richie team amaze year llc help proud eeo opportunity succ importance
+5: support work amp thank welcome job vanessa tim new day management hip look business forward
+6: school amp district worldgate love proud community fairfax business clients board service support welcome week
+7: support amp welcome customers honor dami district team include thank education premier colby local latest
+8: worldgate thank support work erp implementation cco proud love llc help daily debrief incl continue
+9: great team proudly board patricia members fund honor firm wow excite impromptu enjoy tacos wit

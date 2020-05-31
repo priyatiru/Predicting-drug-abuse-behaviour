@@ -1,0 +1,11 @@
+[('los', 0.017733824), ('estos', 0.013408461), ('excelente', 0.013408444), ('que', 0.0090831), ('social', 0.009083095), ('momentos', 0.009083095), ('debe', 0.009083095), ('tenemos', 0.009083094), ('gobierno', 0.0047577075), ('creo', 0.0047577075)]
+0: los que libertad mayor modelo mayday como importante debemos muy millones las ser capitalista chile
+1: que para los del una mayor por libertad dar son gran gobierno educacin polticos tomar
+2: que los una ahora nos como izquierda social esta encierro aislamiento tan estrategia permite frustracin
+3: que los una para necesario las pero comprender covid tiempo eso debemos bajo conocimiento prolo
+4: coraje por llevarlos instintos extrema capaz bajos ser los izquierda solo utilizar humano valenta sacrificio
+5: los estos excelente que social momentos debe tenemos creo gobierno hasta gente polticos asegurar chile
+6: que los derecho como sus ser para problema tres esta respeto sociedad sin mirar reales
+7: los que del las existe destruir cueste sus poltico izquierda viene quemar para gustito elegidos
+8: que las para por los chile pero usted social paz izquierda mejor libertad sin progreso
+9: que los social necesario aguanta uno cada nadie gobierno chile menos ese por modelo cierto

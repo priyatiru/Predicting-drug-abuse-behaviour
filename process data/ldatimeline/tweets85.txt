@@ -1,0 +1,11 @@
+[('park', 0.05819525), ('cherry', 0.052148405), ('day', 0.046290312), ('beautiful', 0.043684214), ('fall', 0.040206112), ('tree', 0.030079963), ('bloom', 0.020302067), ('winter', 0.020302061), ('spring', 0.020302037), ('volunteer', 0.012621838)]
+0: park great like reminder tomorrow tailgate association people hope hill face enjoy forest job cover
+1: day nurses volunteer volunteers thank help saturday lesson congressional designate history brief weekin resolution national
+2: park volunteer day tree work thank cherry new fund clean sign collection group great week
+3: today come volunteer cherry county essex grove prudential week purpose community seedsofhope master opportunity bloom
+4: park saturday volunteer group http help tree day cleanup welcome students thanks brook april branch
+5: park cherry day beautiful fall tree bloom winter spring volunteer join week start flower blossom
+6: plant park volunteer tree help enjoy day thank branch brook time great water bed master
+7: blossom cherry festival cherries week start stop good center paper table brook branch way celebrate
+8: project naegely shoot visitor heneage wonder scene public produce inspire engage art kerry people great
+9: volunteer thank park help work fall school event freshman year service daythe myselfin brilliance submerge

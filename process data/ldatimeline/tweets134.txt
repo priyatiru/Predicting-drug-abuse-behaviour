@@ -1,0 +1,11 @@
+[('melt', 0.055555556), ('moussy', 0.055555556), ('pnwbdidx', 0.055555552), ('merci', 0.055555552), ('fly', 0.055555552), ('iyn', 0.055555552), ('hhwsqq', 0.055555552), ('vhjdyirhc', 0.055555552), ('anymore', 0.055555552), ('fjgiy', 0.055555552)]
+0: know anymore twitter use years moussy melt hhwsqq http merci fly iyn fckbgc fjgiy pnwbdidx
+1: http iyn hhwsqq zvmbhfbijg vhjdyirhc msn merci fly moussy anymore pnwbdidx use years twitter fjgiy
+2: melt moussy pnwbdidx merci fly iyn hhwsqq vhjdyirhc anymore fjgiy use http twitter know years
+3: http msn fckbgc fjgiy moussy vhjdyirhc merci fly iyn hhwsqq anymore use years twitter pnwbdidx
+4: melt moussy pnwbdidx merci fly iyn hhwsqq vhjdyirhc anymore fjgiy use http twitter know years
+5: melt moussy pnwbdidx merci fly iyn hhwsqq vhjdyirhc anymore fjgiy use http twitter know years
+6: vhjdyirhc http pnwbdidx msn merci fly iyn hhwsqq moussy anymore use zvmbhfbijg twitter fjgiy years
+7: merci melt http moussy pnwbdidx fly iyn hhwsqq vhjdyirhc anymore use zvmbhfbijg twitter fjgiy years
+8: fly melt moussy pnwbdidx merci iyn hhwsqq vhjdyirhc anymore fjgiy use http twitter know years
+9: pnwbdidx http msn merci fly iyn hhwsqq moussy vhjdyirhc anymore use zvmbhfbijg twitter fjgiy years

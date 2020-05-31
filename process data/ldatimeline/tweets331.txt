@@ -1,0 +1,11 @@
+[('ceo', 0.31428546), ('mbti', 0.028571442), ('timeular', 0.028571442), ('sns', 0.028571442), ('vip', 0.028571442), ('entp', 0.028571442), ('ban', 0.028571442), ('mackie', 0.028571442), ('douglas', 0.028571442), ('year', 0.028571442)]
+0: boeuf pho saignant mackie douglas zoom feat travel jfk mbti entp vip sns timeular afford
+1: opt year mackie douglas jfk mbti entp vip sns timeular travel ban afford grad cuz
+2: year gap jfk ban mackie douglas mbti entp vip sns timeular travel afford opt grad
+3: vip opt year mackie douglas jfk mbti entp sns timeular travel ban afford grad cuz
+4: timeular opt year mackie douglas jfk mbti entp vip sns travel ban afford grad cuz
+5: ceo ban year mackie douglas jfk mbti entp vip sns timeular travel afford opt grad
+6: feat afford cuz grad pricey student break timeular mackie douglas jfk mbti entp vip sns
+7: travel ban opt year mackie douglas jfk mbti entp vip sns timeular afford grad cuz
+8: mbti entp opt year mackie douglas jfk vip sns timeular travel ban afford grad cuz
+9: sns opt year mackie douglas jfk mbti entp vip timeular travel ban afford grad cuz

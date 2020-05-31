@@ -1,0 +1,11 @@
+[('amp', 0.03980373), ('people', 0.023355853), ('afghanistan', 0.016776698), ('afg', 0.010197542), ('use', 0.0069079576), ('tough', 0.0069079576), ('global', 0.0069079567), ('foods', 0.0069079567), ('dont', 0.0069079567), ('know', 0.0069079557)]
+0: afg amp need people attack kabul city history culture celebrate read long new country believe
+1: amp learn kabul attack kill leaders afg taliban citizens corrupt day enemies opinions media long
+2: amp taliban live right hear northern sad people kabul days saleh time hazaras amrullah claim
+3: amp know way taliban public use people afghan long attack quarrel instrument great afghani open
+4: amp taliban people want leaders stalemate deal war election know day corrupt forever miss ill
+5: amp people afghanistan afg use tough global foods dont know time come afghan eye emirate
+6: amp fear mind people hear today let force issue kabul know meet course students fail
+7: amp know end taliban power love sound universities afg world peace let current afghan seize
+8: amp kabul afghanistan women kill wonderful volunteer today die result clear able savage brave province
+9: amp people maintain kabul like sexual haji hafiz anas lead witness haqqani community case abuse

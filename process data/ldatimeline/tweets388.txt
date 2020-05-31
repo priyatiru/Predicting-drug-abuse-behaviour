@@ -1,0 +1,11 @@
+[('afghanistan', 0.023442727), ('million', 0.023144584), ('kabul', 0.017499583), ('covid', 0.012881047), ('hospital', 0.011854496), ('afghan', 0.011854496), ('test', 0.011854349), ('positive', 0.0070476183), ('case', 0.007028969), ('hours', 0.006325043)]
+0: afghan covid afghanistan today patients palace hospital isolation darulaman landmark convert minister ambassador aid treatment
+1: coronavirus afghanistan police province afghan kabul chief farah bakhtawar general jalil abdul farid dead spin
+2: afghan dead wazir province today hospital remain shoot prisoners taliban government release tell amp covid
+3: afghanistan positive covid afghan total ministry people health release confirm case number taliban diagnose test
+4: afghan health government attack coronavirus afghanistan use minister amp covid pandemic coronavirusoutbreak epicenter western representative
+5: afghanistan million kabul covid hospital afghan test positive case hours medical today hanifa province spokesman
+6: afghan factory health covid kabul taliban ministry kit mask prisoners release demand plan minister medical
+7: kabul police amp city kill district covid hospital afghan attack media add herat cameraman related
+8: afghanistan covid patients positive health case ministry amp recover illness hours deaths number past far
+9: afghanistan coronavirus amp amid pandemic kabul people health ministry eastern provinces kunar lockdown news breaking

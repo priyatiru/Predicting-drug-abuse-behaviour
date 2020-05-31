@@ -1,0 +1,11 @@
+[('japan', 0.16939534), ('techcrunch', 0.16939534), ('air', 0.06010989), ('mendel', 0.06010989), ('sensor', 0.06010989), ('github', 0.060109872), ('dhamobiol', 0.060109872), ('netflix', 0.06010971), ('sorae', 0.06010971), ('ogc', 0.005464555)]
+0: engadget iphoneesim nsazoommaczoom japan techcrunch nda iotagri pro campfirecampfire owners campfire bcnr gigazine ogc web
+1: book mac pro nda gigazine infarm campfirecampfire owners campfire bcnr ogc web watch amazonwatch ppivrvr
+2: watch jdi ppivrvr online wunderlistmicrosoft bose news fabcross owners bcnr campfire pro web campfirecampfire mac
+3: nhk news web bonx livedoor infarm japan techcrunch fabcross campfire owners bcnr ogc campfirecampfire bose
+4: fabcross gigazine djiecoflow web infarm book mac pro campfirecampfire owners campfire bcnr ogc watch nda
+5: japan techcrunch air mendel sensor github dhamobiol netflix sorae nda ogc infarm amazonwatch fabcross web
+6: google palettefabcross iotagri map vrjaxa campfire bcnr engadget ogc mac pro campfirecampfire owners gigazine book
+7: fnn teamsslackteams slackmicrosoft google internet watch japan techcrunch nda web gigazine campfire infarm ogc owners
+8: japan techcrunch rocket labelectron lab kickstarter nasa infarm nsazoommaczoom netflix sorae campfire amazonwatch iotagri web
+9: watch internet amazonwatch ogc owners campfirecampfire iotw box web mendel bcnr nda infarm gigazine campfire

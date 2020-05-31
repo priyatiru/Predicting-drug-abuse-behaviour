@@ -1,0 +1,11 @@
+[('students', 0.034159776), ('grads', 0.02076372), ('thank', 0.020763697), ('new', 0.014065691), ('college', 0.014065691), ('prep', 0.014065691), ('job', 0.014065691), ('dean', 0.014065689), ('love', 0.014065688), ('community', 0.014065685)]
+0: day grateful zoom thank student duluth kid congrats awesome session feel tip moving need dont
+1: faculty members students watch blog post pandemic prior afte leap true hold write items fully
+2: great beer read good distance home today felt article fun book like social time miss
+3: happy days day way order oreo wild products successful tie cookie designing organic debate harvest
+4: virtual class home instacart use year congrats grader word rethinking having environment course help mind
+5: students grads thank prep job new college dean love community amaze thats continue creativit kid
+6: local support delivery tip yes ive spend outline time classroom virtually reflect activelearning shift plan
+7: today class stay wait work truly home guest founder create authentic sarah admire nope dog
+8: awesome need thank product develop saturday list wish hour support class zoom local plunk session
+9: miss date family enjoy help meal night restaurants support weve local week inspired answer watch

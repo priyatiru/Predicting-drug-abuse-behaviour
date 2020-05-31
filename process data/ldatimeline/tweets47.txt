@@ -1,0 +1,11 @@
+[('years', 0.15068491), ('coffee', 0.15068491), ('life', 0.15068491), ('making', 0.15068491), ('way', 0.15068491), ('add', 0.15068491), ('fat', 0.013698645), ('low', 0.013698645), ('covid', 0.013698645), ('nice', 0.013698645)]
+0: covid add coffee life making way years loving cute nice fat low menu
+1: covid add coffee life making way years loving cute nice fat low menu
+2: loving covid add coffee life making way years cute nice fat low menu
+3: nice covid add coffee life making way years loving cute fat low menu
+4: fat low menu covid add coffee life making way years loving cute nice
+5: add coffee life making way years covid loving cute nice fat low menu
+6: covid add coffee life making way years loving cute nice fat low menu
+7: covid add coffee life making way years loving cute nice fat low menu
+8: cute covid add coffee life making way years loving nice fat low menu
+9: covid add coffee life making way years loving cute nice fat low menu

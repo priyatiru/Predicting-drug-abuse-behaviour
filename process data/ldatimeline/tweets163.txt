@@ -1,0 +1,11 @@
+[('design', 0.07559234), ('gig', 0.07559234), ('check', 0.075592324), ('fiverr', 0.075592324), ('banner', 0.07559229), ('repeat', 0.07559228), ('yard', 0.07559228), ('billboard', 0.07559228), ('outdoor', 0.07559228), ('backdrop', 0.07559228)]
+0: banner check design fiverr gig backdrop hours trade roll pop display yard sign repeat outdoor
+1: banner fiverr check gig design roll hours pull roller retractable backdrop sign repeat step vinyl
+2: ads hours check design fiverr gig banner adwords google creative event create invitation wed birthday
+3: check design fiverr gig banner youtube twitter post linkedin instagram facebook cover ads business booklet
+4: check design fiverr gig party event business flyer flyers postcard brochure club create unique infographic
+5: design gig check fiverr banner repeat yard billboard outdoor backdrop step vinyl sign professional unique
+6: check design fiverr gig create unique infographic professional event party club flyers postcard flyer brochure
+7: design check gig fiverr linkedin business facebook banner youtube ads twitter instagram post cover flyer
+8: fiverr check gig design banner hours hoard yard sign signboard real estate presentation deck paper
+9: card wed check hours design fiverr gig event birthday create invitation party infographic professional unique

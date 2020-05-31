@@ -1,0 +1,11 @@
+[('arts', 0.022172293), ('news', 0.01280366), ('mit', 0.009680779), ('sports', 0.009680779), ('face', 0.009680777), ('opinion', 0.009680776), ('president', 0.009680776), ('update', 0.0069207274), ('students', 0.0065578907), ('time', 0.0065578907)]
+0: mit news campus life fund covid fall people opinion update consider include run world person
+1: news mit new students arts update little house contact close field advisor increase medical online
+2: mit news campus opinion sports life students time financial coach monday offer request message covid
+3: sports mit news past life campus best light link hyper drifter zelda diablo arts combine
+4: update news house students live comic campus mit undergraduates dormspam gloria lin plan cost emergency
+5: arts news mit sports face opinion president update students time geathers elect danielle character emergency
+6: miscellany max comic opinion news plan mit graduate sports undergraduates editorial arts write away residents
+7: campus life news update medical mit students live covid arts provide house possible quarantine reif
+8: life news student mit campus group arts opinion update continue doors community students test people
+9: news students opinion new disappoint meet campus coronavirus jaeho kim comic ifc outbreak cup satire

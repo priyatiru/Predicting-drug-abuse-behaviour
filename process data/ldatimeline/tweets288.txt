@@ -1,0 +1,11 @@
+[('mit', 0.021810835), ('ich', 0.017087951), ('meinem', 0.016251104), ('dann', 0.015514803), ('der', 0.011358085), ('und', 0.011358084), ('auch', 0.011358083), ('wre', 0.011358081), ('das', 0.01135808), ('glck', 0.01135808)]
+0: ich nacht gute und uhr war der eine gut morgen bier tag sich gegen bis
+1: ich das lieber der jetzt andi nacht gute auch ist profilfoto die happy birthday kommt
+2: der eine ich sein auch war nachrichten besseren letzten lust mehr zeit keine habe das
+3: einen ich schnen auch dir und die wnsche euch meine abend lieben ein allen mal
+4: ich die und der nicht dann mir man geht das nach uhr mal habe wie
+5: mit ich meinem dann der und auch wre glck das zum von dank doch frs
+6: dir ist wie okay hmm gute auch von der samstag kann bin arbeit mal frhlichen
+7: gute nacht eine die andi auch und alles ihr lieben lieber essen von nur rum
+8: die dankeschn ist mir ich das nicht moin jetzt eine guten morgen habe kann wirklich
+9: guten morgen gut ihr lieben kommt wochenende der ich nicht tag aus neue mal noch

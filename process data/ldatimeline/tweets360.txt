@@ -1,0 +1,11 @@
+[('bladdercancer', 0.074491404), ('trial', 0.041061435), ('clinical', 0.03736219), ('new', 0.029963762), ('bladder', 0.02626452), ('cancer', 0.023393977), ('patients', 0.021653367), ('reach', 0.015166771), ('volunteer', 0.015166771), ('start', 0.015166771)]
+0: meet felt faceofbladdercancer diagnosed cancer bladder bladdercancer disbelief clinical director tracy shock scar scared yes
+1: bladder bladdercancer cancer urothelial carcinoma facesofbladdercancer dose biomarker trial clinical new treatments nccn version national
+2: cancer bladdercancer bladder diagnosis awareness thank urothelial month sign early help metastatic key know asco
+3: cancer bladder bladdercancer covid care patient pandemic immunotherapy view patients cystectomy risk radical excellent cells
+4: facesofbladdercancer cancer bladder future checkpoint bladdercancer recent andrea gurin bacillus calmette updates trials dose intensive
+5: bladdercancer trial clinical new bladder cancer patients volunteer start search reach treatments deal coronavirus amp
+6: faceofbladdercancer felt meet diagnosed shocked bladdercancerawarenessmonth bladder cancer enfortumab vedotin invasive muscle programmed trial urologic
+7: bladder cancer thank share aim highlight diversity facesofbladdercancer bladdercancer worldcancerday information visit patient quality submit
+8: cancer bladder asco urothelial safety efficacy patients cancers treatment nadofaragene firadenovec intravesical cystoscopy bladdercancer visit
+9: urothelial carcinoma node lymph muscle enfortumab plus radical vedotin cystectomy pelvic metastatic amp undergo offering

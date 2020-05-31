@@ -1,0 +1,11 @@
+[('video', 0.040194783), ('like', 0.03577771), ('thinking', 0.013692695), ('united', 0.009275641), ('experience', 0.009275641), ('global', 0.009275641), ('skills', 0.00927564), ('improve', 0.00927564), ('world', 0.00927564), ('startup', 0.00927564)]
+0: innovation run business risk feel video success earnit sells zack bracelets friendship morris saved bell
+1: finance team startups age digital ethics strategic business executive education new train startup deliver need
+2: skills work new learn significant organizational mba future amp course innovation ceos designthinking mit ethics
+3: ipo company biotech train unicorn exit industry pre likely billion active moderna biggest investors year
+4: startup step important ask better brainstorm question team right valuable time improvement work insights franchise
+5: video like thinking experience global united improve world startup read skills designthinking strategy strategic startups
+6: company startups time new offer creativity ethics podcast video billion train extra employees inadequately meet
+7: digital job think strategy business plan focus influence technology decade shift management practice run process
+8: new job digital current coronavirus impact gethired day free clickfunnels workfromhome wednesdaywisdom today trial motivation
+9: like startup startups video water poor bottle reduce fraud prevent point consumer share improve long

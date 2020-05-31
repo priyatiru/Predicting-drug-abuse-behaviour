@@ -1,0 +1,11 @@
+[('linux', 0.18333353), ('youtube', 0.1833334), ('amp', 0.18333197), ('sinxcosx', 0.016666707), ('twiversity', 0.016666707), ('root', 0.016666707), ('template', 0.016666707), ('typename', 0.016666707), ('types', 0.016666707), ('vim', 0.016666707)]
+0: sov svo suntan twiversity key typename types sinxcosx soundcloud xdx root emacs block vim elipsis
+1: amp vim emacs intel daigo root key elipsis block dxdy twiversity xdx types sov man
+2: home stay elipsis soundcloud root vim emacs key block xdx twiversity sinxcosx types typename template
+3: git man twitter block twiversity key typename types sinxcosx soundcloud root emacs xdx vim elipsis
+4: types typename template objdump elipsis root vim emacs key block xdx twiversity sinxcosx soundcloud linux
+5: linux youtube amp sinxcosx twiversity root template typename types vim key elipsis emacs block xdx
+6: soundcloud linux elipsis root vim emacs key block xdx twiversity sinxcosx types typename template cooh
+7: cooh valid linux root vim emacs key block xdx twiversity sinxcosx types typename template soundcloud
+8: key linux elipsis root vim emacs block xdx twiversity sinxcosx types typename template soundcloud cooh
+9: dxdy sinxcosx xdx linux elipsis root vim emacs key block twiversity types typename template soundcloud

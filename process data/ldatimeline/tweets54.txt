@@ -1,0 +1,11 @@
+[('iphone', 0.40789422), ('ill', 0.013157907), ('web', 0.013157907), ('direct', 0.013157906), ('constant', 0.013157906), ('fine', 0.013157906), ('kek', 0.013157906), ('sumika', 0.013157906), ('billion', 0.013157906), ('advances', 0.013157906)]
+0: scanneroffice lens cam direct science google kek sumika advances ago billion constant standard years end
+1: prime misfits line ill web measurements years sumika advances ago billion constant direct fine google
+2: constant science advances ago billion years structure measurements fine direct ill google kek sumika standard
+3: fine science google kek sumika advances ago billion constant direct standard measurements indigo cam scanneroffice
+4: air ipad airmacbook moodle sumika mosfet google dome cern web ill line fine measurements constant
+5: iphone web ill science kek sumika advances ago billion constant direct fine dome measurements mosfet
+6: kek kubo iphone measurements structure sumika advances ago billion constant direct fine dome indigo cam
+7: indigo end dome cern iphone ill web direct kek sumika advances ago billion constant science
+8: music official video measurements years kek sumika advances ago billion constant direct fine dome indigo
+9: physics represent lagrangian equation single nhk particle model stand left standard web prime constant direct

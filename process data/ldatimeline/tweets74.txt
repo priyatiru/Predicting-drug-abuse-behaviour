@@ -1,0 +1,11 @@
+[('today', 0.03068272), ('cohort', 0.026754327), ('meet', 0.026322586), ('teacher', 0.0199024), ('check', 0.019902335), ('help', 0.019549744), ('great', 0.019274818), ('alum', 0.017399507), ('teachers', 0.01379308), ('urban', 0.013482218)]
+0: join hope webinar teach alum alexes encourage tonight fellows web breakthrough est school master deadline
+1: cohort dallas teachers great amp meet deadline join want choose app future love teach recruit
+2: corps service recognition national members day thank teach encourage baltimore book tonight love teachers check
+3: teacher recruit prep deadline great app program future jan talent day today amp grad final
+4: cohort meet baltimore teacher want amp teach great black choose teachers dallas fellow prep program
+5: today cohort meet teacher check help great alum teachers urban robert simmons educator initiative piece
+6: teachers participate train love hope amp students final online coursework plan lessons int core development
+7: racism deadline black ece women neighborhoods teachers members value highly volunteer corps white violence stigmatize
+8: baltimore join dallas cohort amp today great meet work career breakthrough alum corps alums teaching
+9: teaching new cohort angelika general learn implement successful model congrats members encourage colle member logo

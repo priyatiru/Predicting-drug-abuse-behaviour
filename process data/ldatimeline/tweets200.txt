@@ -1,0 +1,11 @@
+[('amazon', 0.33333308), ('coffee', 0.030303039), ('cellutan', 0.030303039), ('gpu', 0.030303039), ('warn', 0.030303039), ('aug', 0.030303039), ('ringfitadventure', 0.030303039), ('nintendoswitch', 0.030303039), ('day', 0.030303039), ('starbucks', 0.030303039)]
+0: day javanesejava gpu ubereats warn zoomurlpanda kyoto panda data ringfitadventure nintendoswitch starbucks coffee zzz readme
+1: ringfitadventure nintendoswitch venti sac_ starbucks coffee warn gpu cellutan data aug kyoto zzz javanesejava amazon
+2: readme aug day ringfitadventure nintendoswitch starbucks coffee warn gpu cellutan data kyoto sac_ uniqlocmubereats panda
+3: zzz panda cellutan warn zoomurlpanda data day ringfitadventure nintendoswitch starbucks coffee gpu kyoto aug readme
+4: kyoto data aug zoomurlpanda warn ringfitadventure nintendoswitch starbucks coffee gpu cellutan day sac_ uniqlocmubereats panda
+5: amazon aug day ringfitadventure nintendoswitch starbucks coffee warn gpu cellutan data kyoto sac_ readme panda
+6: uniqlocmubereats google ubereats data day ringfitadventure nintendoswitch starbucks coffee warn gpu cellutan kyoto aug amazon
+7: sac_ day ringfitadventure nintendoswitch starbucks coffee warn gpu cellutan data aug kyoto zzz javanesejava amazon
+8: ubereats starbucks coffee zoomurlpanda warn day gpu cellutan data aug sac_ kyoto panda google javanesejava
+9: sac_ ikea day ringfitadventure nintendoswitch starbucks coffee warn gpu cellutan data aug kyoto uniqlocmubereats panda

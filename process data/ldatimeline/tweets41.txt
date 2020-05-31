@@ -1,0 +1,11 @@
+[('ipod', 0.116666764), ('god', 0.11666671), ('introduction', 0.06111106), ('apple', 0.06111106), ('event', 0.06111106), ('music', 0.06111106), ('kamisugita', 0.06111105), ('maji', 0.06111105), ('satoshi', 0.06111105), ('nano', 0.061111007)]
+0: gariben event ipod listecconomist new time times nts radio bossa novacarnival apple bloomberg _zoom qol
+1: mba ibc event ipod new time times nts radio bossa novacarnival apple check introduction _zoom
+2: youtube magazine youtubernhk enhk design event new time times nts radio bossa novacarnival apple check
+3: iphone _zoom event ipod listecconomist new time times nts radio bossa novacarnival apple bloomberg marty
+4: event ipod listecconomist new time times nts radio bossa novacarnival apple bloomberg introduction _zoom qol
+5: ipod god introduction music event apple satoshi maji kamisugita nano imac radio time times nts
+6: roll dead little pioneer richard rock radio nts _tv apple novacarnival introduction bossa youtubernhk times
+7: bossa novacarnival _atm jtb youtubetv event ipod new time times nts radio apple check _zoom
+8: netflix awbpjg bbbk qol marty iphone apple ipod new time times nts radio bossa novacarnival
+9: times check bloomberg new time listecconomist ray netflixamazon blu introducti mba nts radio bossa marty

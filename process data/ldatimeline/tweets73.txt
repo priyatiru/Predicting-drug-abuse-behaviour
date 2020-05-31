@@ -1,0 +1,11 @@
+[('passeata', 0.09703007), ('digital', 0.09576004), ('dia', 0.09569899), ('falta', 0.09552308), ('participe', 0.09552308), ('basta', 0.09552308), ('apenas', 0.09552308), ('amanh', 0.09552308), ('compartilhar', 0.08259272), ('todas', 0.07289494)]
+0: expres fazermos estamos onde para pena ver como devemos entrevista exp vamos guedes agitao caminhando
+1: dia hoje protesto digital mostrarmos depasseata nossa indignao contra governo feder indigna pedro gov fed
+2: gover expressar expressa gove nosso dos indig contr dia digital vamos passeata depasseata mostrarmos hoje
+3: alma fosse compartilh govern suas sua divulgar sugeridos ajuda boa contamos com noite pra nas
+4: churrasco mil seria carne fossem almas fmg voc respeito posi pode defender presidente sua dos
+5: passeata digital dia apenas basta participe falta amanh compartilhar todas sua suas rede compartilha pra
+6: que dia como ruas fazermos devemos tal todos passeata digital vamos expres exp expr expre
+7: participei passeatas todas contra governo dilma juraci segundo votei turno bolsonaro pedro pelo contrrio muito
+8: federal muito governo pena sentido nazista inacreditvel filosofia comunicados algum tiver brasil ver sutil essa
+9: assim que comparti adeptos tem tambm isolamen iremos ido presidente casa diferena estou meu alienado

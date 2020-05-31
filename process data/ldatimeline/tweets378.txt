@@ -1,0 +1,11 @@
+[('away', 1.0)]
+0: away
+1: away
+2: away
+3: away
+4: away
+5: away
+6: away
+7: away
+8: away
+9: away

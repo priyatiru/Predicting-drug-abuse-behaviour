@@ -1,0 +1,11 @@
+[('google', 0.06633243), ('programmer', 0.03397519), ('ruby', 0.033975188), ('hubweb', 0.033975095), ('user', 0.033969004), ('good', 0.017796416), ('sundar', 0.017796416), ('pichai', 0.017796416), ('hire', 0.017796416), ('basis', 0.017796416)]
+0: users docker design chocolatey school qiita github machine boxstarter mattgwagner packer configure vagrant new dev
+1: software answer engineer trend dislike current personally oro juan job quit fran months shortly musk
+2: user qiita business intelligence analytics curve engadget envision glass sheet apple mac platforms disney mario
+3: user users japan error github answer straight kuroko hashicorp cookies turned qiita wiki ubuntu python
+4: users framework year stock run market futures end cnn bull treasure serverengine data robust multiprocess
+5: google programmer ruby hubweb user good sundar pichai hire basis programming pragmatic ventures meetyxtech bridge
+6: user electron bridge apis explore demos api business docker headache plan learn dev community hubweb
+7: users user linux business saas going programming kerrisk michael training consulting paas unix iaas market
+8: rpa answer cnn need live discover definition scientists animal oxygen design competent start information best
+9: users wikipedia web zdnet microsoft windows lab javascript news change storage usb disconnect media updates

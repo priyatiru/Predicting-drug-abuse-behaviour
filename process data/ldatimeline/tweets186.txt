@@ -1,0 +1,11 @@
+[('today', 0.09691533), ('rhodeisland', 0.07535555), ('coronavirus', 0.060234684), ('update', 0.05258992), ('need', 0.049557306), ('know', 0.043401096), ('data', 0.02146719), ('governor', 0.01780511), ('address', 0.01166301), ('april', 0.009541979)]
+0: deaths new home nurse homes address day group governor total nursing cases positive case contribute
+1: new rhodeisland week story town open amp days home nurse coronavirus staff send ravage test
+2: account health event decision coronavirus twitter time shut help governor data forget art editorial fail
+3: tara report covid sweden concern fatalities wednesday coronavirus release sour grapes tim cartoon comics jones
+4: test coronavirus veterans home yesterday nose positive residents time question race writer pandemic contribute know
+5: today rhodeisland coronavirus update need know data governor address april monday plan week rita trucking
+6: covid island rhode writer contribute rhodeisland deaths plus light high scanning properties paolino pawtucket tech
+7: home health week pass post governor east linn nurses rehab rouse providence brave connecticut nurse
+8: write time way process writer week new tell contributing china architecture copy rule design brussat
+9: rhodeisland today weather meteorologist donnelly jack tuesday sunday beach anthony summer feature park new better

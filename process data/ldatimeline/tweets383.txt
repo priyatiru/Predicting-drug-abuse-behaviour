@@ -1,0 +1,11 @@
+[('meet', 0.03419977), ('cohort', 0.027493905), ('career', 0.020788034), ('teach', 0.020788029), ('service', 0.014924028), ('baltimore', 0.014082163), ('want', 0.014082163), ('teacher', 0.014082163), ('prep', 0.014082161), ('work', 0.014082159)]
+0: baltimore teachers cohort amp meet teacher work look fellow urban corps today check improving bootcamp
+1: join hope teach webinar alum fellows encourage alexes web tonight breakthrough est neighborhoods event black
+2: teachers love meet cohort recruit train teacher amp great alum teach college volunteer career address
+3: day corps members service recognition national thank dallas encourage love cohort meet choose time week
+4: career encourage members new launch consider volunteer college amp june start dallas teachers want logo
+5: meet cohort career teach service baltimore want teacher prep amp women racism work students alum
+6: great cohort deadline dallas teacher join app teachers future recruit amp jan final talent students
+7: cohort meet want baltimore amp dallas teach choose teachers teaching learn teacher know successful model
+8: deadline baltimore great today piece apply application black book school day history antiracist kendi approach
+9: teacher cohort program post grad meet dallas prep recruit black great master robert simmons check
