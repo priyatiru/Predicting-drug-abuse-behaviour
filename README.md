@@ -18,7 +18,7 @@ Fetching 10 clouds of 15 words from the clean timeline
 data. (Environment- IDLE (Python
 3.7), Library imported was gensim )
 
-4. #clearlda -
+4. #clearlda-
 Removing extras from lda output. (Environment- Jupyter notebook, Library imported was pandas)
 
 5. #randomDivisionOfBow -
