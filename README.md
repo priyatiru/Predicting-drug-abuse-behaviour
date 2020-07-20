@@ -1,7 +1,7 @@
 # Predicting-drug-abuse-behaviour
 This repository contains all the code files and output of the project carried out on the topic- Predicting Drug Abuse Behavior using Deep Learning technologies. The keywords used in the project are -  drugs, BERT, Tweepy, Twitter, timeline, students, depression, bag of words, drug abuse behavior, hash, cosine  similarities, LDA, multinomial naive bayes, linear support vector machine, random forest classifier, NLP, deep learning.
 
-Following are the descriptions of the codes contained in the repository :
+# Following are the descriptions of the codes contained in the repository :
 1. #getTweets - 
 Looks for timelines and fetches the tweet texts
 For the authentication of the Tweepy API required
